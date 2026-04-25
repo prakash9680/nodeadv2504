@@ -1,0 +1,60 @@
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T07:55:47.959Z"}
+{"level":"info","message":"Listening for notification events","service":"notification-service","timestamp":"2026-04-17T07:55:48.045Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T07:55:48.048Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T07:59:59.837Z"}
+{"level":"info","message":"Listening for notification events","service":"notification-service","timestamp":"2026-04-17T07:59:59.902Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T07:59:59.907Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:00:06.635Z"}
+{"level":"info","message":"Listening for notification events","service":"notification-service","timestamp":"2026-04-17T08:00:06.694Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:00:06.697Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:02:56.649Z"}
+{"level":"info","message":"Listening for notification events","service":"notification-service","timestamp":"2026-04-17T08:02:56.710Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:02:56.714Z"}
+{"level":"info","message":"[EMAIL SIMULATED] To user d0c00255-0dac-4555-904d-a7a44ddc241d: Document Processing Complete - Your document \"Onboarding Session 2_Staples UX team-20260302_093704-Meeting Recording.mp4\" has been processed successfully.","service":"notification-service","timestamp":"2026-04-17T08:06:08.802Z"}
+{"level":"info","message":"Notification d0c52835-210d-4749-86d6-54fb78006a9d created for user d0c00255-0dac-4555-904d-a7a44ddc241d","service":"notification-service","timestamp":"2026-04-17T08:06:08.804Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:06:50.768Z"}
+{"level":"info","message":"Listening for notification events","service":"notification-service","timestamp":"2026-04-17T08:06:50.826Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:06:50.828Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:12:12.573Z"}
+{"level":"info","message":"Listening for notification events","service":"notification-service","timestamp":"2026-04-17T08:12:12.664Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:12:12.668Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:13:11.770Z"}
+{"level":"info","message":"Listening for notification events","service":"notification-service","timestamp":"2026-04-17T08:13:11.833Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:13:11.836Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:16:26.988Z"}
+{"level":"info","message":"Listening for notification events","service":"notification-service","timestamp":"2026-04-17T08:16:27.050Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:16:27.053Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:16:36.851Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:16:36.855Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:16:48.202Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:16:48.215Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:17:09.250Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:17:09.254Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:17:19.324Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:17:19.328Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:20:21.041Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:20:21.044Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:20:26.236Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:20:26.240Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:21:42.900Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:21:42.903Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:29:04.968Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:29:04.973Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:29:30.272Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:29:30.278Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:31:17.512Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:31:17.514Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:31:35.199Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:31:35.201Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:31:47.031Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:31:47.036Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:33:35.603Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:33:35.608Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:35:38.151Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:35:38.154Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:37:03.962Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:37:03.971Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:43:28.743Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:43:28.747Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-17T08:51:13.990Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-17T08:51:13.993Z"}

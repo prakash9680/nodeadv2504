@@ -1,0 +1,9 @@
+{"level":"info","message":"Database connected","service":"processing-service","timestamp":"2026-04-10T11:07:16.220Z"}
+{"level":"info","message":"Listening for document processing events","service":"processing-service","timestamp":"2026-04-10T11:07:16.334Z"}
+{"level":"info","message":"Processing service running on port 4003","service":"processing-service","timestamp":"2026-04-10T11:07:16.338Z"}
+{"level":"info","message":"Database connected","service":"processing-service","timestamp":"2026-04-10T11:45:00.246Z"}
+{"level":"info","message":"Listening for document processing events","service":"processing-service","timestamp":"2026-04-10T11:45:00.326Z"}
+{"level":"info","message":"Processing service running on port 4003","service":"processing-service","timestamp":"2026-04-10T11:45:00.329Z"}
+{"level":"info","message":"Database connected","service":"processing-service","timestamp":"2026-04-10T11:48:19.229Z"}
+{"level":"info","message":"Listening for document processing events","service":"processing-service","timestamp":"2026-04-10T11:48:19.290Z"}
+{"level":"info","message":"Processing service running on port 4003","service":"processing-service","timestamp":"2026-04-10T11:48:19.292Z"}

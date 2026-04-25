@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/logs/.2c470f75ac2af11ea0b3d834f1e4d38c47a5f638-audit.json",
+    "files": [
+        {
+            "date": 1777114377159,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/logs/notification-service-error-2026-04-25.log",
+            "hash": "ef63136adbfdd8ee8bbbbe88d1cbc09dd582dfd0f027a0b6216a1b6cbed30a80"
+        }
+    ],
+    "hashType": "sha256"
+}

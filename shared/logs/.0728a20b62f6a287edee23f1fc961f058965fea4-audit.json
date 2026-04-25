@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/logs/.0728a20b62f6a287edee23f1fc961f058965fea4-audit.json",
+    "files": [
+        {
+            "date": 1777098744004,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/logs/api-gateway-error-2026-04-25.log",
+            "hash": "2fb8e61efe60ceff7c3c99032ffc96f276be6b24bef9b69cc13571fdf5a74111"
+        }
+    ],
+    "hashType": "sha256"
+}

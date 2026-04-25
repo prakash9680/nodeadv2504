@@ -1,0 +1,943 @@
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T10:52:57.546Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T10:52:57.549Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T10:55:59.205Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T10:55:59.208Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T10:56:07.764Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T10:56:07.767Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:10:56:25 +0000] \"POST /api/documents/upload/7f0b63bc-8147-46dd-b60c-db8612819089 HTTP/1.1\" 202 291 \"-\" \"PostmanRuntime/7.51.0\"","service":"document-service","timestamp":"2026-04-25T10:56:25.743Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T10:57:23.030Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T10:57:23.034Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T10:57:45.545Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T10:57:45.548Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T10:57:53.237Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T10:57:53.240Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T10:58:05.273Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T10:58:05.276Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T10:58:08.341Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T10:58:08.344Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T10:58:17.324Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T10:58:17.326Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T10:58:27.082Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T10:58:27.085Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T10:58:28.769Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T10:58:28.772Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T10:58:39.177Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T10:58:39.180Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T10:58:44.099Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T10:58:44.102Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T10:58:46.784Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T10:58:46.787Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T10:58:48.254Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T10:58:48.257Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T10:58:50.635Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T10:58:50.640Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T10:58:55.824Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T10:58:55.829Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T10:59:56.853Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T10:59:56.856Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:00:14.984Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:00:14.987Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:00:58.568Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:00:58.571Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:01:02.966Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:01:02.969Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:01:07.943Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:01:07.946Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:01:09.403Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:01:09.405Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:01:19.576Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:01:19.579Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:01:20.914Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:01:20.918Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:01:25.138Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:01:25.141Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:01:34.697Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:01:34.700Z"}
+{"level":"error","message":"Database error","method":"POST","path":"/api/documents/upload/7f0b63bc-8147-46dd-b60c-db8612819089","service":"document-service","stack":"Error: Database error\n    at normalizeError (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:66:12)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:90:24\n    at Layer.handle_error (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:71:5)\n    at trim_prefix (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:326:13)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:646:15\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:265:14)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/route.js:141:14)","statusCode":500,"timestamp":"2026-04-25T11:01:38.801Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:11:01:38 +0000] \"POST /api/documents/upload/7f0b63bc-8147-46dd-b60c-db8612819089 HTTP/1.1\" 500 1364 \"-\" \"PostmanRuntime/7.51.0\"","service":"document-service","timestamp":"2026-04-25T11:01:38.805Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:06:33.149Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:06:33.154Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:13:20.282Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:13:20.287Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:13:44.087Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:13:44.090Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:11:14:41 +0000] \"POST /api/documents/ HTTP/1.1\" 404 154 \"-\" \"PostmanRuntime/7.51.0\"","service":"document-service","timestamp":"2026-04-25T11:14:41.220Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:15:01.364Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:15:01.367Z"}
+{"level":"error","message":"Document.productId cannot be null","method":"POST","path":"/api/documents/","service":"document-service","stack":"Error: Document.productId cannot be null\n    at normalizeError (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:60:12)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:90:24\n    at Layer.handle_error (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:71:5)\n    at trim_prefix (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:326:13)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:646:15\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:265:14)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/route.js:141:14)","statusCode":400,"timestamp":"2026-04-25T11:15:07.898Z","type":"VALIDATION_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:11:15:07 +0000] \"POST /api/documents/ HTTP/1.1\" 400 1428 \"-\" \"PostmanRuntime/7.51.0\"","service":"document-service","timestamp":"2026-04-25T11:15:07.902Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:15:38.943Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:15:38.947Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:15:46.607Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:15:46.611Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:16:12.923Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:16:12.926Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:16:47.953Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:16:47.959Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:16:52.329Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:16:52.332Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:11:16:59 +0000] \"POST /api/documents/ HTTP/1.1\" 202 291 \"-\" \"PostmanRuntime/7.51.0\"","service":"document-service","timestamp":"2026-04-25T11:16:59.053Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:11:18:32 +0000] \"GET /api/documents/2cde83b7-fc29-4284-a6b9-66a735ed7051 HTTP/1.1\" 200 592 \"-\" \"PostmanRuntime/7.51.0\"","service":"document-service","timestamp":"2026-04-25T11:18:32.605Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:11:18:53 +0000] \"GET /api/documents?page=1&limit=10 HTTP/1.1\" 200 535 \"-\" \"PostmanRuntime/7.51.0\"","service":"document-service","timestamp":"2026-04-25T11:18:53.719Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:11:19:14 +0000] \"GET /api/documents/2cde83b7-fc29-4284-a6b9-66a735ed7051/download HTTP/1.1\" 200 544 \"-\" \"PostmanRuntime/7.51.0\"","service":"document-service","timestamp":"2026-04-25T11:19:14.502Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:11:19:38 +0000] \"GET /api/documents/2cde83b7-fc29-4284-a6b9-66a735ed7051/progress HTTP/1.1\" 200 171 \"-\" \"PostmanRuntime/7.51.0\"","service":"document-service","timestamp":"2026-04-25T11:19:38.673Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:11:19:39 +0000] \"GET /api/documents/2cde83b7-fc29-4284-a6b9-66a735ed7051/progress HTTP/1.1\" 200 171 \"-\" \"PostmanRuntime/7.51.0\"","service":"document-service","timestamp":"2026-04-25T11:19:39.176Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:11:19:52 +0000] \"DELETE /api/documents/2cde83b7-fc29-4284-a6b9-66a735ed7051 HTTP/1.1\" 200 45 \"-\" \"PostmanRuntime/7.51.0\"","service":"document-service","timestamp":"2026-04-25T11:19:52.114Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:22:41.049Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:22:41.052Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:11:22:56 +0000] \"POST /api/documents/ HTTP/1.1\" 202 291 \"-\" \"PostmanRuntime/7.51.0\"","service":"document-service","timestamp":"2026-04-25T11:22:56.470Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:23:45.288Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:23:45.291Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:24:05.723Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:24:05.726Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:24:46.298Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:24:46.301Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:24:49.598Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:24:49.601Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:25:05.559Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:25:05.563Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:25:19.606Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:25:19.609Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:25:25.375Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:25:25.378Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:25:37.120Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:25:37.123Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:25:54.128Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:25:54.130Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:27:34.437Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:27:34.440Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:27:54.158Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:27:54.161Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:28:17.828Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:28:17.831Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:28:22.435Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:28:22.438Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:28:26.407Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:28:26.409Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:29:06.841Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:29:06.844Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:29:08.337Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:29:08.341Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:29:13.173Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:29:13.175Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:29:24.271Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:29:24.274Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:29:30.506Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:29:30.509Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:29:44.439Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:29:44.442Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:29:45.896Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:29:45.899Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:29:49.652Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:29:49.655Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:29:57.028Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:29:57.031Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:29:59.803Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:29:59.806Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:30:04.467Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:30:04.470Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:30:07.586Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:30:07.589Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:30:14.144Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:30:14.147Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:30:15.560Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:30:15.563Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:30:17.034Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:30:17.040Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:30:25.727Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:30:25.730Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:30:27.249Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:30:27.254Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:30:37.716Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:30:37.719Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:30:54.558Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:30:54.561Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:30:55.584Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:30:55.587Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:30:56.828Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:30:56.831Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:31:06.133Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:31:06.137Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:31:10.650Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:31:10.653Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:31:17.063Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:31:17.067Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:31:39.209Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:31:39.212Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:31:46.677Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:31:46.680Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:31:51.581Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:31:51.584Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:31:56.058Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:31:58.110Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:31:58.113Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:32:00.490Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:32:00.493Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:32:01.779Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:32:01.783Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:32:04.623Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:32:04.628Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:32:09.065Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:32:09.068Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:32:20.268Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:32:20.271Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:32:28.547Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:32:28.550Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:32:34.393Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:32:34.396Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:32:43.717Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:32:43.720Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:32:49.988Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:32:49.990Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:33:06.834Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:33:06.838Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:33:10.793Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:33:10.795Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:33:11.813Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:33:11.815Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:33:14.507Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:33:14.510Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:33:20.892Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:33:20.895Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:33:27.054Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:33:27.057Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:33:31.066Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:33:31.069Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:33:32.045Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:33:32.048Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:33:33.264Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:33:33.267Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:33:34.588Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:33:34.591Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:33:37.386Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:33:37.391Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:33:40.830Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:33:40.836Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:33:49.917Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:33:49.920Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:33:51.744Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:33:51.748Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:34:10.927Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:34:10.933Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:34:12.033Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:34:12.036Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:34:25.897Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:34:25.900Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:34:36.785Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:34:36.788Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:34:57.284Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:34:57.287Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:34:58.501Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:34:58.504Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:34:59.870Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:34:59.874Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:35:01.533Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:35:01.536Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:35:14.007Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:35:14.010Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:35:19.192Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:35:19.195Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:35:22.384Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:35:22.389Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:35:33.864Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:35:33.867Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:35:43.812Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:35:43.815Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:35:59.522Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:35:59.525Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:36:05.965Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:36:05.969Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:36:10.477Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:36:10.480Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:36:17.692Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:36:17.695Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:36:21.661Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:36:21.663Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:36:24.760Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:36:24.763Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:36:30.108Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:36:30.111Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:36:36.911Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:36:36.914Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:36:41.705Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:36:41.708Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:36:47.652Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:36:47.655Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:36:49.512Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:36:49.516Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:37:18.268Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:37:18.272Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:37:22.619Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:37:22.622Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:37:32.497Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:37:32.500Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:37:36.503Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:37:36.505Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:37:38.078Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:37:38.081Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:37:39.394Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:37:39.397Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:37:40.901Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:37:40.904Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:37:50.747Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:37:50.750Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:38:15.590Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:38:15.592Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:39:02.956Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:39:02.959Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:39:04.608Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:39:04.611Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:39:07.772Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:39:07.775Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:39:13.285Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:39:13.288Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:39:19.105Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:39:19.108Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:39:22.466Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:39:22.469Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:39:24.641Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:39:24.644Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:39:26.382Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:39:26.386Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:39:34.820Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:39:34.823Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:39:39.472Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:39:39.476Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:39:47.595Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:39:47.598Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:39:50.701Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:39:50.704Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:41:11.208Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:41:11.211Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:41:21.460Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:41:21.463Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:41:22.582Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:41:22.585Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:41:23.762Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:41:23.765Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:41:25.271Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:41:25.274Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:41:27.786Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:41:27.789Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:41:33.911Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:41:33.914Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:41:43.220Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:41:43.223Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:42:11.177Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:42:11.180Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:42:12.121Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:42:12.124Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:42:29.680Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:42:29.683Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:42:45.424Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:42:45.426Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:42:51.906Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:42:51.909Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:42:55.156Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:42:55.159Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:43:04.177Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:43:04.180Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:43:12.361Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:43:12.364Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:43:18.363Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:43:18.368Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:43:25.916Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:43:25.920Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:43:28.428Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:43:28.432Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:43:39.407Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:43:39.410Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:44:36.059Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:44:36.063Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:44:37.319Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:44:37.322Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:44:42.934Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:44:42.937Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:44:44.353Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:44:44.356Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:44:45.832Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:44:45.835Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:44:54.073Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:44:54.076Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:45:03.647Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:45:03.650Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:45:24.975Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:45:24.979Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:45:30.441Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:45:30.444Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:45:34.583Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:45:34.586Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:45:37.665Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:45:37.668Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:45:39.269Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:45:39.272Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:45:40.919Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:45:40.922Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:45:45.787Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:45:45.792Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:45:48.797Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:45:48.800Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:45:57.230Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:45:57.235Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:46:02.447Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:46:02.453Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T11:46:07.173Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T11:46:07.176Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:08:37.340Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:08:37.344Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:08:41.291Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:08:41.300Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:10:13.976Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:10:13.979Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:10:27.386Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:10:27.389Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:10:32.241Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:10:32.245Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:10:37.693Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:10:37.698Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:10:40.846Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:10:40.850Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:10:43.071Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:10:43.074Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:10:56.861Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:10:56.864Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:10:59.610Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:10:59.614Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:11:15.209Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:11:15.212Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:11:32.695Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:11:32.697Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:11:43.519Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:11:43.522Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:11:44.707Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:11:44.710Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:11:56.303Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:11:56.306Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:12:05.551Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:12:05.554Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:12:11.832Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:12:11.835Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:12:16.119Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:12:16.122Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:12:27.173Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:12:27.177Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:12:44.575Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:12:44.578Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:12:54.339Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:12:54.342Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:13:05.047Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:13:05.052Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:13:07.090Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:13:07.093Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:13:09.502Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:13:09.506Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:14:29.996Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:14:29.998Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:14:44.806Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:14:44.810Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:15:17.989Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:15:17.993Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:15:23.958Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:15:23.961Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:15:34.427Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:15:34.431Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:15:38.731Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:15:38.736Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:16:31.941Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:16:31.944Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:16:33.762Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:16:33.766Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:17:15.988Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:17:15.992Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:17:29.161Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:17:29.166Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:17:36.064Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:17:36.066Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:17:44.082Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:17:44.086Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:17:49.862Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:17:49.865Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:17:55.193Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:17:55.197Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:17:59.919Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:17:59.922Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:18:14.205Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:18:14.208Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:18:21.760Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:18:21.763Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:18:42.524Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:18:42.527Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:18:55.481Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:18:55.484Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:19:01.888Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:19:01.891Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:19:09.184Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:19:09.186Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:19:20.469Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:19:20.472Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:19:29.366Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:19:29.369Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:19:34.166Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:19:34.169Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:19:42.504Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:19:42.507Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:19:47.216Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:19:47.219Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:19:49.258Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:19:49.262Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:19:55.757Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:19:55.760Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:20:04.302Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:20:04.305Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:20:15.164Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:20:15.167Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:20:23.906Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:20:23.912Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:20:45.307Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:20:45.310Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:20:50.343Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:20:50.345Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:20:52.230Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:20:52.232Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:20:54.039Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:20:54.042Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:20:55.481Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:20:55.486Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:20:56.533Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:20:56.536Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:21:00.198Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:21:00.201Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:21:03.586Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:21:03.591Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:21:12.965Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:21:12.968Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:21:19.424Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:21:19.430Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:21:40.751Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:21:40.758Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:21:48.652Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:21:48.656Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:21:49.849Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:21:49.852Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:21:58.185Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:21:58.188Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:22:09.448Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:22:09.452Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:22:31.106Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:22:31.109Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:22:40.506Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:22:40.508Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:22:48.728Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:22:48.731Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:23:21.142Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:23:21.144Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:24:03.963Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:24:03.966Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:24:36.128Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:24:36.133Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:25:02.661Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:25:02.664Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:25:40.728Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:25:40.731Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:25:54.727Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:25:54.730Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:26:02.802Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:26:02.805Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:26:22.432Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:26:22.435Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:26:26.519Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:26:26.523Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:26:30.205Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:26:30.208Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:26:31.356Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:26:31.359Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:27:39.590Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:27:39.592Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:27:43.877Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:27:43.880Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:27:46.601Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:27:46.604Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:27:53.793Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:27:53.797Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:28:01.800Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:28:01.803Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:28:14.385Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:28:14.387Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:28:21.691Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:28:21.694Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:28:24.327Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:28:24.330Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:28:58.391Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:28:58.394Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:29:06.508Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:29:06.511Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:29:15.435Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:29:15.438Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:29:21.232Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:29:21.235Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:29:26.340Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:29:26.343Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:29:39.349Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:29:39.352Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:29:50.454Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:29:50.458Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:29:54.092Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:29:54.096Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:30:59.517Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:30:59.525Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:31:02.200Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:31:02.203Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:31:05.306Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:31:05.309Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:31:09.163Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:31:09.166Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:31:15.759Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:31:15.763Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:31:22.315Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:31:22.319Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:31:27.753Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:31:27.756Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:31:31.004Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:31:31.008Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:31:35.437Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:31:35.447Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:31:44.434Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:31:44.442Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:32:25.230Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:32:25.234Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:32:28.402Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:32:28.405Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:32:32.862Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:32:32.865Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:32:36.279Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:32:36.283Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:32:51.123Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:32:51.127Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:33:01.378Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:33:01.384Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:33:03.875Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:33:03.878Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:33:05.954Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:33:05.957Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:33:32.905Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:33:32.908Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:33:34.831Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:33:34.834Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:33:36.813Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:33:36.817Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:33:49.956Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:33:49.959Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:34:00.237Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:34:00.240Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:34:05.119Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:34:05.127Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:34:42.033Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:34:42.037Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:34:44.293Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:34:44.298Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:35:05.231Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:35:05.234Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:35:18.932Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:35:18.935Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:35:37.349Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:35:37.351Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:35:40.324Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:35:40.328Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:35:49.368Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:35:49.370Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:35:57.515Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:35:57.518Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:35:59.791Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:35:59.794Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:36:12.307Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:36:12.311Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:36:15.471Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:36:15.474Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:36:39.962Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:36:39.965Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:37:21.450Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:37:21.453Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:37:50.638Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:37:50.641Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:38:23.088Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:38:23.092Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:38:30.169Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:38:30.172Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:39:51.589Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:39:51.592Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:41:55.285Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:41:55.288Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:42:00.706Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:42:00.710Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:42:04.624Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:42:04.627Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:42:10.177Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:42:10.180Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:42:18.056Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:42:18.059Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:42:21.967Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:42:21.970Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:42:29.276Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:42:29.278Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:42:31.675Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:42:31.678Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:42:35.673Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:42:35.678Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:42:40.333Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:42:40.336Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:42:47.553Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:42:47.556Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:42:51.521Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:42:51.524Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:43:04.660Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:43:04.663Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:43:08.171Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:43:08.174Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:43:10.012Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:43:10.016Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:43:16.147Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:43:16.150Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:43:30.613Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:43:30.616Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:43:37.235Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:43:37.238Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:43:39.497Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:43:39.500Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:44:08.327Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:44:08.330Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:44:24.188Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:44:24.191Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:44:27.549Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:44:27.552Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:44:30.023Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:44:30.026Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:45:12.656Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:45:12.660Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:45:20.158Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:45:20.161Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:45:21.598Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:45:21.607Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:45:23.106Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:45:23.109Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:45:58.868Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:45:58.871Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:46:41.993Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:46:41.995Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:46:48.984Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:46:48.987Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:46:55.161Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:46:55.164Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:47:12.705Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:47:12.709Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:47:26.169Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:47:26.176Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:47:28.413Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:47:28.418Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:48:03.615Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:48:03.618Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:48:24.751Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:48:24.754Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:48:28.579Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:48:28.583Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:49:02.083Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:49:02.087Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:49:28.517Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:49:28.521Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:49:57.853Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:49:57.859Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:50:00.949Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:50:00.952Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:50:19.677Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:50:19.681Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:50:22.601Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:50:22.604Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:50:29.630Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:50:29.633Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:50:54.425Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:50:54.429Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:51:15.317Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:51:15.320Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:51:31.110Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:51:31.115Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:51:40.467Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:51:40.470Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:51:52.211Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:51:52.215Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:52:05.024Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:52:05.026Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:52:15.414Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:52:15.417Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:52:25.900Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:52:25.908Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:52:50.034Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:52:50.041Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:53:10.394Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:53:10.398Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:53:21.988Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:53:21.992Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:53:26.015Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:53:26.018Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:53:27.960Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:53:27.963Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:53:34.440Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:53:34.443Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:53:35.653Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:53:35.657Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:53:41.433Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:53:41.439Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:53:43.403Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:53:43.409Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:53:45.963Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:53:45.969Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:53:52.292Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:53:52.296Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:53:56.267Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:53:56.271Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:53:59.924Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:53:59.929Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:54:02.195Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:54:02.200Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:54:35.236Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:54:35.239Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:55:03.098Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:55:03.102Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:55:17.675Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:55:17.679Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:55:20.341Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:55:20.344Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:55:25.128Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:55:25.131Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:55:27.404Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:55:27.407Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:56:03.597Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:56:03.600Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:56:08.822Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:56:08.825Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:56:16.861Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:56:16.864Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:56:23.925Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:56:23.929Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:56:35.898Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:56:35.900Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:56:48.315Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:56:48.318Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:57:05.470Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:57:05.473Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:57:39.609Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:57:39.613Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:57:44.555Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:57:44.558Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:57:57.712Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:57:57.715Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:58:01.373Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:58:01.376Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:58:09.337Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:58:09.340Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:58:12.683Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:58:12.686Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:58:25.958Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:58:25.962Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:58:29.636Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:58:29.639Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:58:33.016Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:58:33.019Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:58:43.081Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:58:43.084Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:58:50.708Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:58:50.711Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:59:10.559Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:59:10.562Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:59:18.017Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:59:18.020Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:59:20.123Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:59:20.131Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:59:21.316Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:59:21.319Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T12:59:58.584Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T12:59:58.588Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:00:02.144Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:00:02.147Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:00:10.486Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:00:10.489Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:00:32.604Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:00:32.610Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:00:38.902Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:00:38.905Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:00:56.002Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:00:56.005Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:01:13.158Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:01:13.161Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:01:37.580Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:01:37.583Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:01:43.414Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:01:43.417Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:01:47.749Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:01:47.755Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:01:52.291Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:01:52.294Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:01:56.501Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:01:56.504Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:01:59.667Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:01:59.670Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:02:06.141Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:02:06.146Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:02:08.065Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:02:08.070Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:02:33.850Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:02:33.853Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:03:11.072Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:03:11.079Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:04:12.765Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:04:12.768Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:04:15.415Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:04:15.417Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:04:31.496Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:04:31.499Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:04:34.224Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:04:34.227Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:04:37.408Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:04:37.411Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:05:03.126Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:05:03.129Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:05:19.706Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:05:19.709Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:05:29.813Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:05:29.816Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:07:25.216Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:07:25.219Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:07:29.411Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:07:29.414Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:07:30.731Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:07:30.734Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:07:38.338Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:07:38.341Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:07:49.464Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:07:49.469Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:07:51.923Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:07:51.926Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:08:32.237Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:08:32.239Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:08:41.951Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:08:41.954Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:09:00.979Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:09:00.983Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:09:05.991Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:09:05.994Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:09:26.084Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:09:26.086Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:09:34.391Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:09:34.394Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:09:39.653Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:09:39.657Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:09:41.348Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:09:41.352Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:13:11:28 +0000] \"POST /api/documents/ HTTP/1.1\" 202 291 \"-\" \"PostmanRuntime/7.51.0\"","service":"document-service","timestamp":"2026-04-25T13:11:28.036Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:13:11:41 +0000] \"POST /api/documents/ HTTP/1.1\" 202 291 \"-\" \"PostmanRuntime/7.51.0\"","service":"document-service","timestamp":"2026-04-25T13:11:41.310Z"}
+{"level":"error","message":"Document not found","method":"GET","path":"/api/documents/2cde83b7-fc29-4284-a6b9-66a735ed7051","service":"document-service","stack":"Error: Document not found\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/document-service/controllers/documentController.js:83:19\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","statusCode":404,"timestamp":"2026-04-25T13:11:46.153Z","type":"NOT_FOUND"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:13:11:46 +0000] \"GET /api/documents/2cde83b7-fc29-4284-a6b9-66a735ed7051 HTTP/1.1\" 404 314 \"-\" \"PostmanRuntime/7.51.0\"","service":"document-service","timestamp":"2026-04-25T13:11:46.154Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:13:12:04 +0000] \"GET /api/documents/222b50fd-d862-45df-b64b-41afe24bb32d HTTP/1.1\" 200 592 \"-\" \"PostmanRuntime/7.51.0\"","service":"document-service","timestamp":"2026-04-25T13:12:04.493Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:13:12:11 +0000] \"GET /api/documents/222b50fd-d862-45df-b64b-41afe24bb32d HTTP/1.1\" 200 592 \"-\" \"PostmanRuntime/7.51.0\"","service":"document-service","timestamp":"2026-04-25T13:12:11.231Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:13:13:28 +0000] \"GET /api/documents/222b50fd-d862-45df-b64b-41afe24bb32d/download HTTP/1.1\" 200 544 \"-\" \"PostmanRuntime/7.51.0\"","service":"document-service","timestamp":"2026-04-25T13:13:28.124Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:13:13:47 +0000] \"GET /api/documents/222b50fd-d862-45df-b64b-41afe24bb32d/download HTTP/1.1\" 200 544 \"-\" \"PostmanRuntime/7.51.0\"","service":"document-service","timestamp":"2026-04-25T13:13:47.324Z"}
+{"level":"info","message":"Database connected","service":"document-service","timestamp":"2026-04-25T13:14:43.320Z"}
+{"level":"info","message":"Document service running on port 5002","service":"document-service","timestamp":"2026-04-25T13:14:43.324Z"}

@@ -1,0 +1,8 @@
+{"level":"info","message":"Database connected","service":"auth-service","timestamp":"2026-04-13T06:11:34.184Z"}
+{"level":"info","message":"Auth service running on port 4001","service":"auth-service","timestamp":"2026-04-13T06:11:34.185Z"}
+{"level":"info","message":"Database connected","service":"auth-service","timestamp":"2026-04-13T06:12:53.425Z"}
+{"level":"info","message":"Auth service running on port 4001","service":"auth-service","timestamp":"2026-04-13T06:12:53.428Z"}
+{"level":"info","message":"Database connected","service":"auth-service","timestamp":"2026-04-13T06:20:45.420Z"}
+{"level":"info","message":"Auth service running on port 4001","service":"auth-service","timestamp":"2026-04-13T06:20:45.421Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [13/Apr/2026:06:21:37 +0000] \"POST /api/auth/login HTTP/1.1\" 200 295 \"-\" \"PostmanRuntime/7.51.0\"","service":"auth-service","timestamp":"2026-04-13T06:21:37.810Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [13/Apr/2026:06:22:41 +0000] \"POST /api/auth/login/verify-otp HTTP/1.1\" 200 507 \"-\" \"PostmanRuntime/7.51.0\"","service":"auth-service","timestamp":"2026-04-13T06:22:41.123Z"}

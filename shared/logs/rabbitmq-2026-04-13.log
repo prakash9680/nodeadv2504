@@ -1,0 +1,15 @@
+{"level":"info","message":"RabbitMQ connected","service":"rabbitmq","timestamp":"2026-04-13T06:12:53.580Z"}
+{"level":"info","message":"Consuming from document.processing","service":"rabbitmq","timestamp":"2026-04-13T06:12:53.581Z"}
+{"level":"info","message":"RabbitMQ connected","service":"rabbitmq","timestamp":"2026-04-13T06:12:53.599Z"}
+{"level":"info","message":"Consuming from notification.send","service":"rabbitmq","timestamp":"2026-04-13T06:12:53.600Z"}
+{"level":"info","message":"RabbitMQ connected","service":"rabbitmq","timestamp":"2026-04-13T06:20:45.396Z"}
+{"level":"info","message":"Consuming from document.processing","service":"rabbitmq","timestamp":"2026-04-13T06:20:45.397Z"}
+{"level":"info","message":"RabbitMQ connected","service":"rabbitmq","timestamp":"2026-04-13T06:20:45.480Z"}
+{"level":"info","message":"Consuming from notification.send","service":"rabbitmq","timestamp":"2026-04-13T06:20:45.481Z"}
+{"level":"info","message":"RabbitMQ connected","service":"rabbitmq","timestamp":"2026-04-13T06:24:01.752Z"}
+{"level":"info","message":"Published to document.processing","messageId":"unknown","service":"rabbitmq","timestamp":"2026-04-13T06:24:01.753Z"}
+{"level":"info","message":"Published to notification.send","messageId":"unknown","service":"rabbitmq","timestamp":"2026-04-13T06:24:05.170Z"}
+{"level":"info","message":"Published to document.processing","messageId":"unknown","service":"rabbitmq","timestamp":"2026-04-13T06:27:16.095Z"}
+{"level":"info","message":"Published to notification.send","messageId":"unknown","service":"rabbitmq","timestamp":"2026-04-13T06:27:19.469Z"}
+{"level":"info","message":"Published to document.processing","messageId":"unknown","service":"rabbitmq","timestamp":"2026-04-13T06:29:16.274Z"}
+{"level":"info","message":"Published to notification.send","messageId":"unknown","service":"rabbitmq","timestamp":"2026-04-13T06:29:19.664Z"}

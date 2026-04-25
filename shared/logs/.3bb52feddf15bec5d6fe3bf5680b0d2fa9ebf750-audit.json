@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/.3bb52feddf15bec5d6fe3bf5680b0d2fa9ebf750-audit.json",
+    "files": [
+        {
+            "date": 1775819235403,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/api-gateway-error-2026-04-10.log",
+            "hash": "7a486557e40d3b439083df143888557c77f13e3a9549f129905440b6de774d63"
+        },
+        {
+            "date": 1776060693836,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/api-gateway-error-2026-04-13.log",
+            "hash": "2d1018e35b839094a2420892232dbcec993f1cb646e13b4ea5e1cad12cfb98b8"
+        },
+        {
+            "date": 1776154974812,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/api-gateway-error-2026-04-14.log",
+            "hash": "7cffd5c019ff3a10d7da6c05f65e9af64916186f97cc1b2a6187d35ff44c9733"
+        },
+        {
+            "date": 1776238545831,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/api-gateway-error-2026-04-15.log",
+            "hash": "097e5e7e12237467fc4eb2239747a0050e383bbbee8f82d0e8bfd9584449ebfc"
+        },
+        {
+            "date": 1776412547663,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/api-gateway-error-2026-04-17.log",
+            "hash": "5357da04b22739be078852067ce104c0b9ea82a9674de404346e5e5f464d6b6d"
+        }
+    ],
+    "hashType": "sha256"
+}

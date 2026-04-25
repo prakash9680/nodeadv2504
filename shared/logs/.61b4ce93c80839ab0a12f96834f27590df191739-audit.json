@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/.61b4ce93c80839ab0a12f96834f27590df191739-audit.json",
+    "files": [
+        {
+            "date": 1775819236201,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/redis-2026-04-10.log",
+            "hash": "b70c03bc0597c1bc9bd2ba8c0e176978f73b080ba47762e3af9e3e0622b4d3d8"
+        },
+        {
+            "date": 1776060694097,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/redis-2026-04-13.log",
+            "hash": "39b501dd9619e7ff709b15b7a08530925f03710513af312d7e2cb7c04d055c3e"
+        },
+        {
+            "date": 1776154975089,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/redis-2026-04-14.log",
+            "hash": "42167df055fbacab305bf903bb113fd31e6054adf07305d984650a5e3ea3eb59"
+        },
+        {
+            "date": 1776238546469,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/redis-2026-04-15.log",
+            "hash": "f0be05b108e67bae59cb6c5dd45dd7d973fa7863c00b0c852ce1883888742479"
+        },
+        {
+            "date": 1776412547897,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/redis-2026-04-17.log",
+            "hash": "278feff3f969c4f90459ff5cb0613fea09f79ba0b624950ff88a656ffb078bb1"
+        }
+    ],
+    "hashType": "sha256"
+}

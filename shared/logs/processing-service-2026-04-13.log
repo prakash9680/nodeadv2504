@@ -1,0 +1,14 @@
+{"level":"info","message":"Database connected","service":"processing-service","timestamp":"2026-04-13T06:11:34.185Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Failed to start processing service connect ECONNREFUSED 127.0.0.1:5672","port":5672,"service":"processing-service","stack":"Error: connect ECONNREFUSED 127.0.0.1:5672\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16)","syscall":"connect","timestamp":"2026-04-13T06:11:34.190Z"}
+{"level":"info","message":"Database connected","service":"processing-service","timestamp":"2026-04-13T06:12:53.511Z"}
+{"level":"info","message":"Listening for document processing events","service":"processing-service","timestamp":"2026-04-13T06:12:53.582Z"}
+{"level":"info","message":"Processing service running on port 4003","service":"processing-service","timestamp":"2026-04-13T06:12:53.586Z"}
+{"level":"info","message":"Database connected","service":"processing-service","timestamp":"2026-04-13T06:20:45.340Z"}
+{"level":"info","message":"Listening for document processing events","service":"processing-service","timestamp":"2026-04-13T06:20:45.397Z"}
+{"level":"info","message":"Processing service running on port 4003","service":"processing-service","timestamp":"2026-04-13T06:20:45.400Z"}
+{"level":"info","message":"Processing document c8eb1343-cdf8-47bb-88de-5da85d00812d","service":"processing-service","timestamp":"2026-04-13T06:24:01.758Z"}
+{"level":"info","message":"Document c8eb1343-cdf8-47bb-88de-5da85d00812d processed successfully","service":"processing-service","timestamp":"2026-04-13T06:24:05.171Z"}
+{"level":"info","message":"Processing document 15d1d9b1-9f81-4711-a39b-3a9c3dc4cba0","service":"processing-service","timestamp":"2026-04-13T06:27:16.097Z"}
+{"level":"info","message":"Document 15d1d9b1-9f81-4711-a39b-3a9c3dc4cba0 processed successfully","service":"processing-service","timestamp":"2026-04-13T06:27:19.470Z"}
+{"level":"info","message":"Processing document c4a327c5-8707-424a-b350-3422d6e87f8f","service":"processing-service","timestamp":"2026-04-13T06:29:16.276Z"}
+{"level":"info","message":"Document c4a327c5-8707-424a-b350-3422d6e87f8f processed successfully","service":"processing-service","timestamp":"2026-04-13T06:29:19.664Z"}

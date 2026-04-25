@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/logs/.188b834118538aec5b8e526cf59f124b106db99a-audit.json",
+    "files": [
+        {
+            "date": 1777100194274,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/logs/vendor-service-error-2026-04-25.log",
+            "hash": "c01ca821a7f7e97293c323536503f89e5aa0caeb62bad34a265b317897331a9a"
+        }
+    ],
+    "hashType": "sha256"
+}

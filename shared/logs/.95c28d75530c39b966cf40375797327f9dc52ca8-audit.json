@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/home/prakashk.kumar/project/docker/lamp/web/testnode/nodeadvancetest/shared/logs/.95c28d75530c39b966cf40375797327f9dc52ca8-audit.json",
+    "files": [
+        {
+            "date": 1776414955177,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/testnode/nodeadvancetest/shared/logs/redis-error-2026-04-17.log",
+            "hash": "7c7f2336465bba69949a5da337fe112649a7e6f89ab2746a27495513ae93aa09"
+        }
+    ],
+    "hashType": "sha256"
+}

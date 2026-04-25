@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/.debd7147b4e1d93d9ae7c8118276dd44ff344f87-audit.json",
+    "files": [
+        {
+            "date": 1775819236252,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/auth-service-error-2026-04-10.log",
+            "hash": "c4e9e724a3c4312e82f0813148bb9cb430cb5b82d8944dc1275ad9819e0b9fc6"
+        },
+        {
+            "date": 1776060694111,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/auth-service-error-2026-04-13.log",
+            "hash": "36dc1113e8fe7dad76363769b6bb1eebcf16ef530cdb540c0ae38f350e313223"
+        },
+        {
+            "date": 1776154975103,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/auth-service-error-2026-04-14.log",
+            "hash": "a830df37558b7081bdfcfe736a65a10bfd8604fc3e3a080080e2d2a5f1e7c874"
+        },
+        {
+            "date": 1776238546517,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/auth-service-error-2026-04-15.log",
+            "hash": "32e4d4e26d199db0335c7fb28a4bb76e1cb75a1263f1ec7d55d925870ef8550a"
+        },
+        {
+            "date": 1776412547906,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/auth-service-error-2026-04-17.log",
+            "hash": "6ac8f4b683ef2ab4f8d8b68f547bbd8c138bc2419a0fa38c97fb76289002eea0"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,14 @@
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-13T06:11:34.186Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Failed to start notification service connect ECONNREFUSED 127.0.0.1:5672","port":5672,"service":"notification-service","stack":"Error: connect ECONNREFUSED 127.0.0.1:5672\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16)","syscall":"connect","timestamp":"2026-04-13T06:11:34.190Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-13T06:12:53.543Z"}
+{"level":"info","message":"Listening for notification events","service":"notification-service","timestamp":"2026-04-13T06:12:53.600Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-13T06:12:53.602Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-13T06:20:45.426Z"}
+{"level":"info","message":"Listening for notification events","service":"notification-service","timestamp":"2026-04-13T06:20:45.481Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-13T06:20:45.485Z"}
+{"level":"info","message":"[EMAIL SIMULATED] To user cd59dd62-bc74-484e-a3ef-b5280631dedd: Document Processing Complete - Your document \"Print Connect - Document Printing - Standard Skus (1).xlsx\" has been processed successfully.","service":"notification-service","timestamp":"2026-04-13T06:24:05.184Z"}
+{"level":"info","message":"Notification 59d0475a-75da-40c3-a937-56bd12a1e26b created for user cd59dd62-bc74-484e-a3ef-b5280631dedd","service":"notification-service","timestamp":"2026-04-13T06:24:05.185Z"}
+{"level":"info","message":"[EMAIL SIMULATED] To user cd59dd62-bc74-484e-a3ef-b5280631dedd: Document Processing Complete - Your document \"6763_12542_banners_120667.pdf\" has been processed successfully.","service":"notification-service","timestamp":"2026-04-13T06:27:19.475Z"}
+{"level":"info","message":"Notification 675cf128-e68e-42d2-9a27-26a88a8195fe created for user cd59dd62-bc74-484e-a3ef-b5280631dedd","service":"notification-service","timestamp":"2026-04-13T06:27:19.476Z"}
+{"level":"info","message":"[EMAIL SIMULATED] To user cd59dd62-bc74-484e-a3ef-b5280631dedd: Document Processing Complete - Your document \"9364_17051_posters_862053.pdf\" has been processed successfully.","service":"notification-service","timestamp":"2026-04-13T06:29:19.674Z"}
+{"level":"info","message":"Notification aae31bc7-9a13-45e5-839c-2058b5afc0c8 created for user cd59dd62-bc74-484e-a3ef-b5280631dedd","service":"notification-service","timestamp":"2026-04-13T06:29:19.675Z"}

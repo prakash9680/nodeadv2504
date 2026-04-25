@@ -1,0 +1,24 @@
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-14T08:22:55.209Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Failed to start notification service connect ECONNREFUSED 127.0.0.1:5672","port":5672,"service":"notification-service","stack":"Error: connect ECONNREFUSED 127.0.0.1:5672\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16)","syscall":"connect","timestamp":"2026-04-14T08:22:55.214Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-14T08:32:43.432Z"}
+{"level":"info","message":"Listening for notification events","service":"notification-service","timestamp":"2026-04-14T08:32:43.493Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-14T08:32:43.496Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-14T08:34:08.168Z"}
+{"level":"info","message":"Listening for notification events","service":"notification-service","timestamp":"2026-04-14T08:34:08.223Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-14T08:34:08.225Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-14T08:34:58.828Z"}
+{"level":"info","message":"Listening for notification events","service":"notification-service","timestamp":"2026-04-14T08:34:58.888Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-14T08:34:58.890Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-14T08:39:14.965Z"}
+{"level":"info","message":"Listening for notification events","service":"notification-service","timestamp":"2026-04-14T08:39:15.027Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-14T08:39:15.032Z"}
+{"level":"info","message":"[EMAIL SIMULATED] To user cd59dd62-bc74-484e-a3ef-b5280631dedd: Document Processing Complete - Your document \"9364_17051_posters_862053.pdf\" has been processed successfully.","service":"notification-service","timestamp":"2026-04-14T08:39:32.684Z"}
+{"level":"info","message":"Notification 05fd6c36-10f9-42a5-83e1-9e4626420f52 created for user cd59dd62-bc74-484e-a3ef-b5280631dedd","service":"notification-service","timestamp":"2026-04-14T08:39:32.684Z"}
+{"level":"info","message":"[EMAIL SIMULATED] To user cd59dd62-bc74-484e-a3ef-b5280631dedd: Document Processing Complete - Your document \"Onboarding Session 2_Staples UX team-20260302_093704-Meeting Recording.mp4\" has been processed successfully.","service":"notification-service","timestamp":"2026-04-14T08:40:29.650Z"}
+{"level":"info","message":"Notification 6b30c8c3-578d-42b5-b89f-b657f7e3ec6b created for user cd59dd62-bc74-484e-a3ef-b5280631dedd","service":"notification-service","timestamp":"2026-04-14T08:40:29.651Z"}
+{"level":"info","message":"[EMAIL SIMULATED] To user cd59dd62-bc74-484e-a3ef-b5280631dedd: Document Processing Complete - Your document \"Onboarding Session 2_Staples UX team-20260302_093704-Meeting Recording.mp4\" has been processed successfully.","service":"notification-service","timestamp":"2026-04-14T08:42:13.305Z"}
+{"level":"info","message":"Notification d6ab2785-47fb-4adc-86eb-28616a96523b created for user cd59dd62-bc74-484e-a3ef-b5280631dedd","service":"notification-service","timestamp":"2026-04-14T08:42:13.306Z"}
+{"level":"info","message":"[EMAIL SIMULATED] To user cd59dd62-bc74-484e-a3ef-b5280631dedd: Document Processing Complete - Your document \"Onboarding Session 2_Staples UX team-20260302_093704-Meeting Recording.mp4\" has been processed successfully.","service":"notification-service","timestamp":"2026-04-14T08:43:30.669Z"}
+{"level":"info","message":"Notification b6596ca9-e0ae-47cb-a8ca-89546b886b3a created for user cd59dd62-bc74-484e-a3ef-b5280631dedd","service":"notification-service","timestamp":"2026-04-14T08:43:30.670Z"}
+{"level":"info","message":"[EMAIL SIMULATED] To user cd59dd62-bc74-484e-a3ef-b5280631dedd: Document Processing Complete - Your document \"Onboarding Session 2_Staples UX team-20260302_093704-Meeting Recording.mp4\" has been processed successfully.","service":"notification-service","timestamp":"2026-04-14T09:01:22.740Z"}
+{"level":"info","message":"Notification a90c79eb-6aa4-44ca-9c2b-d66620e1f2de created for user cd59dd62-bc74-484e-a3ef-b5280631dedd","service":"notification-service","timestamp":"2026-04-14T09:01:22.742Z"}

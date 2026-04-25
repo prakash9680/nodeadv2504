@@ -1,0 +1,66 @@
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T07:55:47.676Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T07:59:59.549Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:00:06.313Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:01:39 +0000] \"POST /api/documents/upload HTTP/1.1\" 401 1343 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:01:39.881Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:02:56.338Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:03:01 +0000] \"POST /api/auth/login HTTP/1.1\" 200 295 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:03:01.962Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:03:07 +0000] \"POST /api/auth/login HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:03:07.790Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:03:21 +0000] \"GET / HTTP/1.1\" 404 27 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"api-gateway","timestamp":"2026-04-17T08:03:21.066Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:03:21 +0000] \"GET /favicon.ico HTTP/1.1\" 404 27 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"api-gateway","timestamp":"2026-04-17T08:03:21.226Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:05:41 +0000] \"POST /api/auth/login/verify-otp HTTP/1.1\" 200 521 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:05:41.810Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:05:54 +0000] \"POST /api/documents/upload HTTP/1.1\" 202 341 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:05:54.793Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:06:50.421Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:12:12.107Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:13:11.384Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:16:26.662Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:16:36.418Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:16:47.825Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:17:08.968Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:17:18.964Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:20:20.818Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:20:26.053Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:21:42.611Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:29:04.629Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:29:29.874Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:31:17.250Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:31:34.887Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:31:46.708Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:33:35.210Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:35:37.927Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:37:03.612Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:39:58 +0000] \"POST /api/documents/upload HTTP/1.1\" 202 341 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:39:58.816Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:43:02 +0000] \"POST /api/documents/upload HTTP/1.1\" 500 1007 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:43:02.991Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:43:28.435Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:44:44 +0000] \"POST /api/documents/upload HTTP/1.1\" 202 341 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:44:44.017Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:44:58 +0000] \"GET /api/documents/852d1802-301a-46ff-b672-537fdbbd0b43/progress HTTP/1.1\" 200 217 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:44:58.780Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:45:01 +0000] \"GET /api/documents/852d1802-301a-46ff-b672-537fdbbd0b43/progress HTTP/1.1\" 200 217 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:45:01.598Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:45:09 +0000] \"POST /api/documents/upload HTTP/1.1\" 202 341 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:45:09.745Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:45:11 +0000] \"GET /api/documents/207afbc8-bf4e-432e-aafe-0177f3dd33e9/progress HTTP/1.1\" 200 216 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:45:11.123Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:45:13 +0000] \"GET /api/documents/207afbc8-bf4e-432e-aafe-0177f3dd33e9/progress HTTP/1.1\" 200 217 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:45:13.500Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:45:14 +0000] \"GET /api/documents/207afbc8-bf4e-432e-aafe-0177f3dd33e9/progress HTTP/1.1\" 200 217 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:45:14.589Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:45:16 +0000] \"GET /api/documents/207afbc8-bf4e-432e-aafe-0177f3dd33e9/progress HTTP/1.1\" 200 217 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:45:16.966Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:45:18 +0000] \"GET /api/documents/207afbc8-bf4e-432e-aafe-0177f3dd33e9/progress HTTP/1.1\" 200 217 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:45:18.099Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:45:19 +0000] \"GET /api/documents/207afbc8-bf4e-432e-aafe-0177f3dd33e9/progress HTTP/1.1\" 200 217 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:45:19.071Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:45:19 +0000] \"GET /api/documents/207afbc8-bf4e-432e-aafe-0177f3dd33e9/progress HTTP/1.1\" 200 217 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:45:19.943Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:45:20 +0000] \"GET /api/documents/207afbc8-bf4e-432e-aafe-0177f3dd33e9/progress HTTP/1.1\" 200 217 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:45:20.867Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:45:21 +0000] \"GET /api/documents/207afbc8-bf4e-432e-aafe-0177f3dd33e9/progress HTTP/1.1\" 200 217 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:45:21.727Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:45:22 +0000] \"GET /api/documents/207afbc8-bf4e-432e-aafe-0177f3dd33e9/progress HTTP/1.1\" 200 217 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:45:22.542Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:45:23 +0000] \"GET /api/documents/207afbc8-bf4e-432e-aafe-0177f3dd33e9/progress HTTP/1.1\" 200 217 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:45:23.459Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:45:28 +0000] \"GET /api/documents/207afbc8-bf4e-432e-aafe-0177f3dd33e9/download HTTP/1.1\" 200 544 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:45:28.460Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:47:37 +0000] \"POST /api/documents/upload HTTP/1.1\" 202 341 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:47:37.299Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:48:00 +0000] \"POST /api/documents/upload HTTP/1.1\" 202 341 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:48:00.916Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:48:58 +0000] \"GET /api/documents?page=1&limit=10 HTTP/1.1\" 200 5080 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:48:58.959Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:49:34 +0000] \"GET /api/documents?page=1&limit=10 HTTP/1.1\" 200 5080 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:49:34.289Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:49:49 +0000] \"GET /api/documents?page=1&limit=10 HTTP/1.1\" 200 5080 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:49:49.727Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:49:55 +0000] \"GET /api/documents?page=1&limit=10 HTTP/1.1\" 200 5080 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:49:55.915Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:49:57 +0000] \"GET /api/documents?page=1&limit=10 HTTP/1.1\" 200 5080 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:49:57.361Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:49:58 +0000] \"GET /api/documents?page=1&limit=10 HTTP/1.1\" 200 5080 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:49:58.258Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:49:59 +0000] \"GET /api/documents?page=1&limit=10 HTTP/1.1\" 200 5080 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:49:59.301Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:50:00 +0000] \"GET /api/documents?page=1&limit=10 HTTP/1.1\" 200 5080 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:50:00.265Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:50:01 +0000] \"GET /api/documents?page=1&limit=10 HTTP/1.1\" 200 5080 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:50:01.144Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:50:01 +0000] \"GET /api/documents?page=1&limit=10 HTTP/1.1\" 200 5080 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:50:01.940Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:50:02 +0000] \"GET /api/documents?page=1&limit=10 HTTP/1.1\" 200 5080 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:50:02.735Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:50:03 +0000] \"GET /api/documents?page=1&limit=10 HTTP/1.1\" 200 5080 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:50:03.697Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:50:47 +0000] \"DELETE /api/documents/5d143683-71d6-4fc9-b15d-722cc610da27 HTTP/1.1\" 200 45 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:50:47.540Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [17/Apr/2026:08:51:00 +0000] \"GET /api/documents?page=1&limit=10 HTTP/1.1\" 200 4487 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-17T08:51:00.958Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-17T08:51:13.741Z"}

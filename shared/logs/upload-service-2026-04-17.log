@@ -1,0 +1,19 @@
+{"level":"info","message":"Database connected","service":"upload-service","timestamp":"2026-04-17T08:37:03.839Z"}
+{"level":"info","message":"Listening on queue: file.upload","service":"upload-service","timestamp":"2026-04-17T08:37:03.926Z"}
+{"level":"info","message":"Upload service running on port 4005","service":"upload-service","timestamp":"2026-04-17T08:37:04.043Z"}
+{"level":"info","message":"Processing upload: 6d627041-f331-43f2-bf8f-c81eb869971e","service":"upload-service","timestamp":"2026-04-17T08:39:58.820Z"}
+{"level":"info","message":"Upload done: 6d627041-f331-43f2-bf8f-c81eb869971e","service":"upload-service","timestamp":"2026-04-17T08:40:12.386Z"}
+{"level":"info","message":"Database connected","service":"upload-service","timestamp":"2026-04-17T08:43:28.643Z"}
+{"level":"info","message":"Listening on queue: file.upload","service":"upload-service","timestamp":"2026-04-17T08:43:28.706Z"}
+{"level":"info","message":"Upload service running on port 4005","service":"upload-service","timestamp":"2026-04-17T08:43:28.813Z"}
+{"level":"info","message":"Processing upload: 852d1802-301a-46ff-b672-537fdbbd0b43","service":"upload-service","timestamp":"2026-04-17T08:44:44.018Z"}
+{"level":"info","message":"Upload done: 852d1802-301a-46ff-b672-537fdbbd0b43","service":"upload-service","timestamp":"2026-04-17T08:44:57.462Z"}
+{"level":"info","message":"Processing upload: 207afbc8-bf4e-432e-aafe-0177f3dd33e9","service":"upload-service","timestamp":"2026-04-17T08:45:09.746Z"}
+{"level":"info","message":"Upload done: 207afbc8-bf4e-432e-aafe-0177f3dd33e9","service":"upload-service","timestamp":"2026-04-17T08:45:22.242Z"}
+{"level":"info","message":"Processing upload: 93092452-bda9-47da-80f7-9b26cf511202","service":"upload-service","timestamp":"2026-04-17T08:47:37.299Z"}
+{"level":"info","message":"Upload done: 93092452-bda9-47da-80f7-9b26cf511202","service":"upload-service","timestamp":"2026-04-17T08:47:49.655Z"}
+{"level":"info","message":"Processing upload: 5d143683-71d6-4fc9-b15d-722cc610da27","service":"upload-service","timestamp":"2026-04-17T08:48:00.921Z"}
+{"level":"info","message":"Upload done: 5d143683-71d6-4fc9-b15d-722cc610da27","service":"upload-service","timestamp":"2026-04-17T08:48:12.367Z"}
+{"level":"info","message":"Database connected","service":"upload-service","timestamp":"2026-04-17T08:51:13.901Z"}
+{"level":"info","message":"Listening on queue: file.upload","service":"upload-service","timestamp":"2026-04-17T08:51:13.954Z"}
+{"level":"info","message":"Upload service running on port 4005","service":"upload-service","timestamp":"2026-04-17T08:51:14.027Z"}

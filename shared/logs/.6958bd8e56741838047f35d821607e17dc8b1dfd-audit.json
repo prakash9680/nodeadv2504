@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/home/prakashk.kumar/project/docker/lamp/web/testnode/staplesricoh/shared/logs/.6958bd8e56741838047f35d821607e17dc8b1dfd-audit.json",
+    "files": [
+        {
+            "date": 1776415902701,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/testnode/staplesricoh/shared/logs/redis-error-2026-04-17.log",
+            "hash": "ebb02437aa6384ffd1aabd3364a620e926aad6443d99444b7b5b07f667b84c8f"
+        }
+    ],
+    "hashType": "sha256"
+}

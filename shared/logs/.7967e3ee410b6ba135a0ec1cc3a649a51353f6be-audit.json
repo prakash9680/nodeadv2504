@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/.7967e3ee410b6ba135a0ec1cc3a649a51353f6be-audit.json",
+    "files": [
+        {
+            "date": 1775819236098,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/processing-service-2026-04-10.log",
+            "hash": "8138e1208f1725ab8aac0d2bf102ff99ab9677097055c223b2581b798e243492"
+        },
+        {
+            "date": 1776060694106,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/processing-service-2026-04-13.log",
+            "hash": "e510bf5b7925d3df16b51bcbfc504e0936ae7196a209ec4b139f37de54ad18ef"
+        },
+        {
+            "date": 1776154975092,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/processing-service-2026-04-14.log",
+            "hash": "5505ac835a2c19a6464b369b8df5dcf9c48bbfd1eede08fb75389c9c3b3f9e3f"
+        },
+        {
+            "date": 1776238546375,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/processing-service-2026-04-15.log",
+            "hash": "cee831117d5ed6f7301b98773ff203045e9c5fb3cec5fd859d2cf4d1b94c7232"
+        },
+        {
+            "date": 1776412547879,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/processing-service-2026-04-17.log",
+            "hash": "0ee55972aa5c28507c9b39ceffef99b10615fbc16cb925e6256d0f55c213557e"
+        }
+    ],
+    "hashType": "sha256"
+}

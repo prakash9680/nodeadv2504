@@ -1,0 +1,19 @@
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-10T11:07:15.430Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [10/Apr/2026:11:08:00 +0000] \"POST /api/auth/register HTTP/1.1\" 201 514 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-10T11:08:00.084Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [10/Apr/2026:11:09:20 +0000] \"POST /api/auth/register HTTP/1.1\" 409 559 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-10T11:09:20.761Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [10/Apr/2026:11:10:09 +0000] \"POST /api/auth/register HTTP/1.1\" 201 514 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-10T11:10:09.591Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [10/Apr/2026:11:11:26 +0000] \"POST /api/auth/login HTTP/1.1\" 200 515 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-10T11:11:26.496Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [10/Apr/2026:11:11:37 +0000] \"GET /api/auth/profile HTTP/1.1\" 200 260 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-10T11:11:37.699Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [10/Apr/2026:11:11:45 +0000] \"GET /api/auth/users?page=1&limit=20 HTTP/1.1\" 403 1430 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-10T11:11:45.655Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [10/Apr/2026:11:12:40 +0000] \"POST /api/documents/upload HTTP/1.1\" 400 1392 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-10T11:12:40.631Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-10T11:44:59.828Z"}
+{"level":"info","message":"API Gateway running on port 4000","service":"api-gateway","timestamp":"2026-04-10T11:48:19.027Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [10/Apr/2026:11:51:44 +0000] \"POST /api/auth/register HTTP/1.1\" 409 559 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-10T11:51:44.699Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [10/Apr/2026:11:52:08 +0000] \"POST /api/auth/register HTTP/1.1\" 201 507 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-10T11:52:08.547Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [10/Apr/2026:11:52:25 +0000] \"POST /api/auth/mfa/enable HTTP/1.1\" 200 4033 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-10T11:52:25.538Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [10/Apr/2026:11:55:21 +0000] \"POST /api/auth/mfa/verify HTTP/1.1\" 200 53 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-10T11:55:21.664Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [10/Apr/2026:11:56:07 +0000] \"POST /api/auth/login HTTP/1.1\" 200 295 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-10T11:56:07.900Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [10/Apr/2026:11:57:08 +0000] \"POST /api/auth/mfa/verify HTTP/1.1\" 409 310 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-10T11:57:08.084Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [10/Apr/2026:11:57:49 +0000] \"POST /api/auth/login/verify-otp HTTP/1.1\" 200 507 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-10T11:57:49.622Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [10/Apr/2026:11:58:11 +0000] \"GET /api/auth/profile HTTP/1.1\" 200 256 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-10T11:58:11.239Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [10/Apr/2026:11:58:35 +0000] \"POST /api/documents/upload HTTP/1.1\" 500 534 \"-\" \"PostmanRuntime/7.51.0\"","service":"api-gateway","timestamp":"2026-04-10T11:58:35.076Z"}

@@ -1,0 +1,12 @@
+{"level":"info","message":"RabbitMQ connected","service":"rabbitmq","timestamp":"2026-04-10T11:07:16.329Z"}
+{"level":"info","message":"Consuming from document.processing","service":"rabbitmq","timestamp":"2026-04-10T11:07:16.333Z"}
+{"level":"info","message":"RabbitMQ connected","service":"rabbitmq","timestamp":"2026-04-10T11:07:16.416Z"}
+{"level":"info","message":"Consuming from notification.send","service":"rabbitmq","timestamp":"2026-04-10T11:07:16.417Z"}
+{"level":"info","message":"RabbitMQ connected","service":"rabbitmq","timestamp":"2026-04-10T11:45:00.324Z"}
+{"level":"info","message":"RabbitMQ connected","service":"rabbitmq","timestamp":"2026-04-10T11:45:00.324Z"}
+{"level":"info","message":"Consuming from document.processing","service":"rabbitmq","timestamp":"2026-04-10T11:45:00.325Z"}
+{"level":"info","message":"Consuming from notification.send","service":"rabbitmq","timestamp":"2026-04-10T11:45:00.325Z"}
+{"level":"info","message":"RabbitMQ connected","service":"rabbitmq","timestamp":"2026-04-10T11:48:19.289Z"}
+{"level":"info","message":"Consuming from document.processing","service":"rabbitmq","timestamp":"2026-04-10T11:48:19.289Z"}
+{"level":"info","message":"RabbitMQ connected","service":"rabbitmq","timestamp":"2026-04-10T11:48:19.424Z"}
+{"level":"info","message":"Consuming from notification.send","service":"rabbitmq","timestamp":"2026-04-10T11:48:19.424Z"}

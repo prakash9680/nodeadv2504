@@ -1,0 +1,9 @@
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-10T11:07:16.342Z"}
+{"level":"info","message":"Listening for notification events","service":"notification-service","timestamp":"2026-04-10T11:07:16.418Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-10T11:07:16.423Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-10T11:45:00.264Z"}
+{"level":"info","message":"Listening for notification events","service":"notification-service","timestamp":"2026-04-10T11:45:00.326Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-10T11:45:00.329Z"}
+{"level":"info","message":"Database connected","service":"notification-service","timestamp":"2026-04-10T11:48:19.364Z"}
+{"level":"info","message":"Listening for notification events","service":"notification-service","timestamp":"2026-04-10T11:48:19.424Z"}
+{"level":"info","message":"Notification service running on port 4004","service":"notification-service","timestamp":"2026-04-10T11:48:19.427Z"}

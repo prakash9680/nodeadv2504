@@ -1,0 +1,600 @@
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T11:46:07.142Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T11:46:07.145Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T11:46:25.852Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T11:46:25.855Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T11:46:59.120Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T11:46:59.124Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T11:47:33.282Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T11:47:33.285Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T11:47:38.554Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T11:47:38.559Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T11:47:41.122Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T11:47:41.125Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T11:47:42.810Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T11:47:42.813Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T11:47:44.539Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T11:47:44.542Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T11:47:57.924Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T11:47:57.927Z"}
+{"level":"error","message":"Access token required","method":"POST","path":"/api/orders/","service":"order-service","stack":"Error: Access token required\n    at authenticate (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/auth.js:10:17)\n    at Layer.handle [as handle_request] (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:328:13)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at Function.handle (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:175:3)\n    at router (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:328:13)","statusCode":401,"timestamp":"2026-04-25T11:50:17.895Z","type":"AUTHENTICATION_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:11:50:17 +0000] \"POST /api/orders/ HTTP/1.1\" 401 1478 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T11:50:17.901Z"}
+{"level":"error","message":"Document is not defined","method":"POST","path":"/api/orders/","service":"order-service","stack":"ReferenceError: Document is not defined\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/order-service/controllers/orderController.js:11:20\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:113:19\n    at Layer.handle [as handle_request] (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:95:5)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at authenticate (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/auth.js:21:5)","statusCode":500,"timestamp":"2026-04-25T11:50:54.461Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:11:50:54 +0000] \"POST /api/orders/ HTTP/1.1\" 500 1425 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T11:50:54.463Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T11:51:07.810Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T11:51:07.813Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T11:51:26.327Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T11:51:26.333Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:11:51:27 +0000] \"POST /api/orders/ HTTP/1.1\" 202 70 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T11:51:27.355Z"}
+{"level":"error","message":"Unexpected token [ in JSON at position 472","method":"POST","path":"/api/orders/","service":"order-service","stack":"SyntaxError: Unexpected token [ in JSON at position 472\n    at JSON.parse (<anonymous>)\n    at parse (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/body-parser/lib/types/json.js:92:19)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/body-parser/lib/read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n    at invokeCallback (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/raw-body/index.js:238:16)\n    at done (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/raw-body/index.js:227:7)\n    at IncomingMessage.onEnd (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/raw-body/index.js:287:7)\n    at IncomingMessage.emit (node:events:513:28)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","statusCode":400,"timestamp":"2026-04-25T11:57:24.062Z","type":"entity.parse.failed"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:11:57:24 +0000] \"POST /api/orders/ HTTP/1.1\" 400 1063 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T11:57:24.063Z"}
+{"level":"error","message":"Unexpected token [ in JSON at position 422","method":"POST","path":"/api/orders/","service":"order-service","stack":"SyntaxError: Unexpected token [ in JSON at position 422\n    at JSON.parse (<anonymous>)\n    at parse (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/body-parser/lib/types/json.js:92:19)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/body-parser/lib/read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n    at invokeCallback (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/raw-body/index.js:238:16)\n    at done (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/raw-body/index.js:227:7)\n    at IncomingMessage.onEnd (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/raw-body/index.js:287:7)\n    at IncomingMessage.emit (node:events:513:28)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","statusCode":400,"timestamp":"2026-04-25T11:59:14.970Z","type":"entity.parse.failed"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:11:59:14 +0000] \"POST /api/orders/ HTTP/1.1\" 400 1063 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T11:59:14.971Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:11:59:36 +0000] \"POST /api/orders/ HTTP/1.1\" 202 70 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T11:59:36.306Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T11:59:49.111Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T11:59:49.114Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T11:59:53.688Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T11:59:53.691Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:00:11.413Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:00:11.416Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:00:16.978Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:00:16.981Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:00:50.912Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:00:50.915Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:01:19.906Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:01:19.910Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:02:13.862Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:02:13.865Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:02:19.389Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:02:19.395Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:02:26.584Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:02:26.587Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:02:49.383Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:02:49.386Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:03:01.322Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:03:01.326Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:03:05.517Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:03:05.520Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:03:10.104Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:03:10.107Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:03:19.308Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:03:19.311Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mimetype')","method":"POST","path":"/api/orders/","service":"order-service","stack":"TypeError: Cannot read properties of undefined (reading 'mimetype')\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/order-service/controllers/orderController.js:17:27\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:113:19\n    at Layer.handle [as handle_request] (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:95:5)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at authenticate (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/auth.js:21:5)","statusCode":500,"timestamp":"2026-04-25T12:03:23.203Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:03:23 +0000] \"POST /api/orders/ HTTP/1.1\" 500 1453 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:03:23.207Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mimetype')","method":"POST","path":"/api/orders/","service":"order-service","stack":"TypeError: Cannot read properties of undefined (reading 'mimetype')\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/order-service/controllers/orderController.js:17:27\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:113:19\n    at Layer.handle [as handle_request] (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:95:5)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at authenticate (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/auth.js:21:5)","statusCode":500,"timestamp":"2026-04-25T12:04:07.091Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:04:07 +0000] \"POST /api/orders/ HTTP/1.1\" 500 1453 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:04:07.094Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:04:25.327Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:04:25.330Z"}
+{"level":"error","message":"Database error","method":"POST","path":"/api/orders/","service":"order-service","stack":"Error: Database error\n    at normalizeError (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:66:12)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:90:24\n    at Layer.handle_error (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:71:5)\n    at trim_prefix (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:326:13)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at Immediate.next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at Immediate._onImmediate (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:646:15)\n    at process.processImmediate (node:internal/timers:473:21)","statusCode":500,"timestamp":"2026-04-25T12:04:26.322Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:04:26 +0000] \"POST /api/orders/ HTTP/1.1\" 500 1206 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:04:26.329Z"}
+{"level":"error","message":"Database error","method":"POST","path":"/api/orders/","service":"order-service","stack":"Error: Database error\n    at normalizeError (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:66:12)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:90:24\n    at Layer.handle_error (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:71:5)\n    at trim_prefix (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:326:13)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at Immediate.next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at Immediate._onImmediate (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:646:15)\n    at process.processImmediate (node:internal/timers:473:21)","statusCode":500,"timestamp":"2026-04-25T12:04:36.629Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:04:36 +0000] \"POST /api/orders/ HTTP/1.1\" 500 1206 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:04:36.631Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:05:03.618Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:05:03.622Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:05:09.694Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:05:09.697Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:05:22.869Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:05:22.873Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:05:38.357Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:05:38.360Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:05:41.791Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:05:41.798Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:07:05 +0000] \"POST /api/orders/ HTTP/1.1\" 202 287 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:07:05.013Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:07:49.501Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:07:49.504Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:08:37.352Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:08:37.356Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:08:41.407Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:08:41.410Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:08:44 +0000] \"POST /api/orders/ HTTP/1.1\" 202 287 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:08:44.828Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:10:14.003Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:10:14.006Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:10:27.342Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:10:27.346Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:10:32.236Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:10:32.239Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:10:37.717Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:10:37.721Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:10:40.912Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:10:40.915Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:10:43.009Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:10:43.012Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:11:56.351Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:11:56.354Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:12:00 +0000] \"POST /api/orders/ HTTP/1.1\" 202 287 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:12:00.118Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:12:27.233Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:12:27.236Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:12:28 +0000] \"POST /api/orders/ HTTP/1.1\" 202 287 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:12:28.199Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:12:34 +0000] \"POST /api/orders/ HTTP/1.1\" 202 287 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:12:34.505Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:14:30.084Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:14:30.088Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:14:32 +0000] \"POST /api/orders/ HTTP/1.1\" 202 287 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:14:32.763Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:14:44.898Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:14:44.901Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:14:47 +0000] \"POST /api/orders/ HTTP/1.1\" 202 287 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:14:47.737Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:15:17.838Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:15:17.844Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:15:23.969Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:15:23.973Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:15:34.375Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:15:34.378Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:15:38.712Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:15:38.718Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:16:31.930Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:16:31.934Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:16:33.609Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:16:33.613Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:17:15.938Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:17:15.949Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:17:29.136Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:17:29.140Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:17:36.121Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:17:36.124Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:17:44.032Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:17:44.036Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:17:49.902Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:17:49.905Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:17:55.117Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:17:55.121Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:17:59.912Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:17:59.915Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:18:14.128Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:18:14.130Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:18:21.834Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:18:21.838Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:18:42.598Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:18:42.601Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:18:55.532Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:18:55.535Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:19:01.925Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:19:01.928Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:19:09.147Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:19:09.150Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:19:20.504Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:19:20.508Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:19:29.352Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:19:29.355Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:19:34.166Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:19:34.171Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:19:42.404Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:19:42.407Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:19:49.331Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:19:49.334Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:19:55.768Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:19:55.771Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:20:04.369Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:20:04.372Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:20:15.211Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:20:15.214Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:20:23.899Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:20:23.904Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:20:50.348Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:20:50.351Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:20:52.193Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:20:52.196Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:20:53.999Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:20:54.003Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:20:55.469Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:20:55.475Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:20:56.497Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:20:56.502Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:21:00.118Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:21:00.123Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:21:03.553Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:21:03.560Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:21:12.968Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:21:12.971Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:21:19.511Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:21:19.516Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:21:40.859Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:21:40.864Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:21:48.586Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:21:48.589Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:21:49.881Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:21:49.885Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:21:58.124Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:21:58.127Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:22:09.500Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:22:09.503Z"}
+{"level":"error","message":"OrderProduct.vendorName cannot be null","method":"POST","path":"/api/orders/","service":"order-service","stack":"Error: OrderProduct.vendorName cannot be null\n    at normalizeError (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:60:12)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:90:24\n    at Layer.handle_error (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:71:5)\n    at trim_prefix (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:326:13)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at Immediate.next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at Immediate._onImmediate (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:646:15)\n    at process.processImmediate (node:internal/timers:473:21)","statusCode":400,"timestamp":"2026-04-25T12:22:11.292Z","type":"VALIDATION_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:22:11 +0000] \"POST /api/orders/ HTTP/1.1\" 400 1280 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:22:11.297Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:22:31.141Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:22:31.144Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:22:40.514Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:22:40.518Z"}
+{"level":"error","message":"OrderProduct.vendorName cannot be null","method":"POST","path":"/api/orders/","service":"order-service","stack":"Error: OrderProduct.vendorName cannot be null\n    at normalizeError (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:60:12)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:90:24\n    at Layer.handle_error (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:71:5)\n    at trim_prefix (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:326:13)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at Immediate.next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at Immediate._onImmediate (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:646:15)\n    at process.processImmediate (node:internal/timers:473:21)","statusCode":400,"timestamp":"2026-04-25T12:22:42.980Z","type":"VALIDATION_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:22:42 +0000] \"POST /api/orders/ HTTP/1.1\" 400 1280 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:22:42.988Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:22:48.654Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:22:48.663Z"}
+{"level":"error","message":"OrderProduct.vendorName cannot be null","method":"POST","path":"/api/orders/","service":"order-service","stack":"Error: OrderProduct.vendorName cannot be null\n    at normalizeError (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:60:12)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:90:24\n    at Layer.handle_error (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:71:5)\n    at trim_prefix (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:326:13)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at Immediate.next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at Immediate._onImmediate (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:646:15)\n    at process.processImmediate (node:internal/timers:473:21)","statusCode":400,"timestamp":"2026-04-25T12:22:51.289Z","type":"VALIDATION_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:22:51 +0000] \"POST /api/orders/ HTTP/1.1\" 400 1280 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:22:51.294Z"}
+{"level":"error","message":"OrderProduct.vendorName cannot be null","method":"POST","path":"/api/orders/","service":"order-service","stack":"Error: OrderProduct.vendorName cannot be null\n    at normalizeError (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:60:12)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:90:24\n    at Layer.handle_error (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:71:5)\n    at trim_prefix (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:326:13)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at Immediate.next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at Immediate._onImmediate (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:646:15)\n    at process.processImmediate (node:internal/timers:473:21)","statusCode":400,"timestamp":"2026-04-25T12:23:05.468Z","type":"VALIDATION_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:23:05 +0000] \"POST /api/orders/ HTTP/1.1\" 400 1280 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:23:05.470Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:23:21.076Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:23:21.080Z"}
+{"level":"error","message":"Database error","method":"POST","path":"/api/orders/","service":"order-service","stack":"Error: Database error\n    at normalizeError (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:66:12)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:90:24\n    at Layer.handle_error (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:71:5)\n    at trim_prefix (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:326:13)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at Immediate.next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at Immediate._onImmediate (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:646:15)\n    at process.processImmediate (node:internal/timers:473:21)","statusCode":500,"timestamp":"2026-04-25T12:23:24.681Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:23:24 +0000] \"POST /api/orders/ HTTP/1.1\" 500 1206 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:23:24.686Z"}
+{"level":"error","message":"Database error","method":"POST","path":"/api/orders/","service":"order-service","stack":"Error: Database error\n    at normalizeError (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:66:12)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:90:24\n    at Layer.handle_error (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:71:5)\n    at trim_prefix (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:326:13)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at Immediate.next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at Immediate._onImmediate (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:646:15)\n    at process.processImmediate (node:internal/timers:473:21)","statusCode":500,"timestamp":"2026-04-25T12:23:33.399Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:23:33 +0000] \"POST /api/orders/ HTTP/1.1\" 500 1206 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:23:33.400Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:24:04.013Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:24:04.015Z"}
+{"level":"error","message":"Database error","method":"POST","path":"/api/orders/","service":"order-service","stack":"Error: Database error\n    at normalizeError (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:66:12)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:90:24\n    at Layer.handle_error (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:71:5)\n    at trim_prefix (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:326:13)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at Immediate.next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at Immediate._onImmediate (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:646:15)\n    at process.processImmediate (node:internal/timers:473:21)","statusCode":500,"timestamp":"2026-04-25T12:24:11.385Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:24:11 +0000] \"POST /api/orders/ HTTP/1.1\" 500 1206 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:24:11.391Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:24:36.089Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:24:36.094Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:24:45 +0000] \"POST /api/orders/ HTTP/1.1\" 202 287 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:24:45.387Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:25:02.516Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:25:02.519Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:25:40.774Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:25:40.777Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:25:54.691Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:25:54.694Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:26:02.768Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:26:02.771Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:26:22.437Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:26:22.439Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:26:26.536Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:26:26.539Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:26:30.179Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:26:30.182Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:26:31.313Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:26:31.317Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:26:35 +0000] \"POST /api/orders/ HTTP/1.1\" 202 287 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:26:35.021Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:27:43.869Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:27:43.872Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:27:53.811Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:27:53.815Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:28:01.679Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:28:01.686Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:28:03 +0000] \"POST /api/orders/ HTTP/1.1\" 202 287 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:28:03.788Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:28:14.293Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:28:14.296Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:28:21.676Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:28:21.679Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:28:24.382Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:28:24.385Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:28:58.362Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:28:58.365Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:29:26.305Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:29:26.308Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:29:39.353Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:29:39.355Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:29:50.533Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:29:50.536Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:29:54.124Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:29:54.128Z"}
+{"level":"error","message":"Cannot set properties of undefined (setting 'order')","method":"POST","path":"/api/orders/","service":"order-service","stack":"TypeError: Cannot set properties of undefined (setting 'order')\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/order-service/controllers/orderController.js:34:16\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","statusCode":500,"timestamp":"2026-04-25T12:29:56.894Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:29:56 +0000] \"POST /api/orders/ HTTP/1.1\" 500 330 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:29:56.900Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:30:59.634Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:30:59.638Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:31:02.149Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:31:02.152Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:31:05.280Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:31:05.284Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:31:09.207Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:31:09.210Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:31:15.789Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:31:15.793Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:31:22.333Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:31:22.336Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:31:27.760Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:31:27.763Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:31:31.015Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:31:31.019Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:31:35.441Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:31:35.446Z"}
+{"level":"error","message":"user is not defined","method":"POST","path":"/api/orders/","service":"order-service","stack":"ReferenceError: user is not defined\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/order-service/controllers/orderController.js:32:19\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","statusCode":500,"timestamp":"2026-04-25T12:31:36.181Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:31:36 +0000] \"POST /api/orders/ HTTP/1.1\" 500 302 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:31:36.185Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:31:44.294Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:31:44.309Z"}
+{"level":"error","message":"order.toSafeJSON is not a function","method":"POST","path":"/api/orders/","service":"order-service","stack":"TypeError: order.toSafeJSON is not a function\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/order-service/controllers/orderController.js:32:25\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","statusCode":500,"timestamp":"2026-04-25T12:31:45.026Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:31:45 +0000] \"POST /api/orders/ HTTP/1.1\" 500 312 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:31:45.033Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:32:25.203Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:32:25.209Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:32:51.074Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:32:51.080Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:33:01.365Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:33:01.369Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:33:03.843Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:33:03.846Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:33:05.941Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:33:05.949Z"}
+{"level":"error","message":"order.toSafeJSON is not a function","method":"POST","path":"/api/orders/","service":"order-service","stack":"TypeError: order.toSafeJSON is not a function\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/order-service/controllers/orderController.js:35:25\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","statusCode":500,"timestamp":"2026-04-25T12:33:06.841Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:33:06 +0000] \"POST /api/orders/ HTTP/1.1\" 500 312 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:33:06.846Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:33:32.960Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:33:32.963Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:33:34.867Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:33:34.870Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:33:36.820Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:33:36.824Z"}
+{"level":"error","message":"order.toSafeJSON is not a function","method":"POST","path":"/api/orders/","service":"order-service","stack":"TypeError: order.toSafeJSON is not a function\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/order-service/controllers/orderController.js:35:25\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","statusCode":500,"timestamp":"2026-04-25T12:33:38.688Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:33:38 +0000] \"POST /api/orders/ HTTP/1.1\" 500 312 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:33:38.692Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:33:50.003Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:33:50.006Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:33:59.167Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:33:59.170Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:34:00.243Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:34:00.247Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:34:03.102Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:34:03.107Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:34:04.972Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:34:04.980Z"}
+{"level":"error","message":"Json is not defined","method":"POST","path":"/api/orders/","service":"order-service","stack":"ReferenceError: Json is not defined\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/order-service/controllers/orderController.js:13:5\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/sequelize/lib/sequelize.js:507:24\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/order-service/controllers/orderController.js:12:21","statusCode":500,"timestamp":"2026-04-25T12:34:06.068Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:34:06 +0000] \"POST /api/orders/ HTTP/1.1\" 500 551 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:34:06.073Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:34:42.082Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:34:42.085Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:34:44.275Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:34:44.279Z"}
+{"level":"error","message":"Json is not defined","method":"POST","path":"/api/orders/","service":"order-service","stack":"ReferenceError: Json is not defined\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/order-service/controllers/orderController.js:13:5\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/sequelize/lib/sequelize.js:507:24\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/order-service/controllers/orderController.js:12:21","statusCode":500,"timestamp":"2026-04-25T12:34:47.350Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:34:47 +0000] \"POST /api/orders/ HTTP/1.1\" 500 551 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:34:47.355Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:35:05.181Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:35:05.184Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:35:06 +0000] \"POST /api/orders/ HTTP/1.1\" 202 287 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:35:06.982Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:35:18.901Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:35:18.905Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:35:19 +0000] \"POST /api/orders/ HTTP/1.1\" 202 397 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:35:19.378Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:35:37.242Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:35:37.246Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:35:49.349Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:35:49.355Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:36:39.880Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:36:39.883Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:36:43 +0000] \"POST /api/orders/ HTTP/1.1\" 202 715 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:36:43.789Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:38:30.127Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:38:30.130Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:38:32 +0000] \"POST /api/orders/ HTTP/1.1\" 202 946 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:38:32.901Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:41:55.127Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:41:55.131Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:42:00.620Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:42:00.624Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:42:04.577Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:42:04.580Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:42:10.158Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:42:10.161Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:42:18.076Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:42:18.080Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:42:21.997Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:42:22.000Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:42:29.217Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:42:29.222Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:42:31.703Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:42:31.706Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:42:35.650Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:42:35.655Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:42:40.179Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:42:40.183Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:42:47.625Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:42:47.628Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:42:51.466Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:42:51.469Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:43:04.650Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:43:04.654Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:43:08.234Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:43:08.237Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:43:10.003Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:43:10.007Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:43:16.067Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:43:16.070Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:43:30.595Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:43:30.600Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:43:37.127Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:43:37.130Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:43:39.472Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:43:39.475Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:44:08.350Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:44:08.353Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:44:24.143Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:44:24.146Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:44:27.512Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:44:27.515Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:44:29.991Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:44:29.995Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:45:12.681Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:45:12.684Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:45:20.285Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:45:20.288Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:45:21.617Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:45:21.619Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:45:23.117Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:45:23.120Z"}
+{"level":"error","message":"postal_code is not defined","method":"POST","path":"/api/orders/","service":"order-service","stack":"ReferenceError: postal_code is not defined\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/order-service/controllers/orderController.js:56:19\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","statusCode":500,"timestamp":"2026-04-25T12:45:26.692Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:45:26 +0000] \"POST /api/orders/ HTTP/1.1\" 500 309 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:45:26.696Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:45:58.822Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:45:58.827Z"}
+{"level":"error","message":"postal_code is not defined","method":"POST","path":"/api/orders/","service":"order-service","stack":"ReferenceError: postal_code is not defined\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/order-service/controllers/orderController.js:56:19\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","statusCode":500,"timestamp":"2026-04-25T12:46:00.194Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:46:00 +0000] \"POST /api/orders/ HTTP/1.1\" 500 309 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:46:00.198Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:46:41.920Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:46:41.923Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:46:48.989Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:46:48.996Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:46:55.040Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:46:55.044Z"}
+{"level":"error","message":"Country cannot be an array or an object","method":"POST","path":"/api/orders/","service":"order-service","stack":"Error: Country cannot be an array or an object\n    at normalizeError (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:60:12)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:90:24\n    at Layer.handle_error (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:71:5)\n    at trim_prefix (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:326:13)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at Immediate.next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at Immediate._onImmediate (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:646:15)\n    at process.processImmediate (node:internal/timers:473:21)","statusCode":400,"timestamp":"2026-04-25T12:46:56.255Z","type":"VALIDATION_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:46:56 +0000] \"POST /api/orders/ HTTP/1.1\" 400 1282 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:46:56.261Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:47:12.687Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:47:12.691Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:47:26.173Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:47:26.177Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:47:28.465Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:47:28.468Z"}
+{"level":"error","message":"Database error","method":"POST","path":"/api/orders/","service":"order-service","stack":"Error: Database error\n    at normalizeError (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:66:12)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:90:24\n    at Layer.handle_error (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:71:5)\n    at trim_prefix (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:326:13)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at Immediate.next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at Immediate._onImmediate (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:646:15)\n    at process.processImmediate (node:internal/timers:473:21)","statusCode":500,"timestamp":"2026-04-25T12:47:29.272Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:47:29 +0000] \"POST /api/orders/ HTTP/1.1\" 500 1206 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:47:29.279Z"}
+{"level":"error","message":"Database error","method":"POST","path":"/api/orders/","service":"order-service","stack":"Error: Database error\n    at normalizeError (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:66:12)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:90:24\n    at Layer.handle_error (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:71:5)\n    at trim_prefix (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:326:13)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at Immediate.next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at Immediate._onImmediate (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:646:15)\n    at process.processImmediate (node:internal/timers:473:21)","statusCode":500,"timestamp":"2026-04-25T12:47:36.974Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:47:36 +0000] \"POST /api/orders/ HTTP/1.1\" 500 1206 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:47:36.975Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:48:03.496Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:48:03.506Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:48:24.714Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:48:24.717Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:48:28.616Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:48:28.619Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:49:02.150Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:49:02.153Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:49:03 +0000] \"POST /api/orders/ HTTP/1.1\" 202 1601 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:49:03.636Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:49:28.469Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:49:28.472Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:49:29 +0000] \"POST /api/orders/ HTTP/1.1\" 202 1601 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:49:29.915Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:49:57.887Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:49:57.893Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:50:00.916Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:50:00.920Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:50:19.623Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:50:19.627Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:50:22.660Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:50:22.662Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:50:29.593Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:50:29.596Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:50:31 +0000] \"POST /api/orders/ HTTP/1.1\" 202 1601 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:50:31.187Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:50:54.358Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:50:54.362Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:50:56 +0000] \"POST /api/orders/ HTTP/1.1\" 202 1598 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:50:56.064Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:51:15.240Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:51:15.244Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:51:31.121Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:51:31.124Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:51:40.513Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:51:40.516Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:51:52.209Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:51:52.212Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:52:05.048Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:52:05.051Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:52:15.372Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:52:15.376Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:52:25.889Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:52:25.893Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:52:50.164Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:52:50.169Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:53:10.483Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:53:10.486Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:53:22.082Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:53:22.087Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:53:25.949Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:53:25.952Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:53:27.980Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:53:27.985Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:53:34.387Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:53:34.390Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:53:35.546Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:53:35.551Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:53:41.455Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:53:41.461Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:53:43.439Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:53:43.444Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:53:46.028Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:53:46.033Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:53:52.226Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:53:52.230Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:53:56.226Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:53:56.231Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:53:59.722Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:53:59.728Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:54:02.120Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:54:02.125Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:54:35.275Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:54:35.278Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:55:03.238Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:55:03.241Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:55:17.648Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:55:17.653Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:55:20.338Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:55:20.341Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:55:25.147Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:55:25.150Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:55:27.485Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:55:27.488Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:56:03.526Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:56:03.530Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:56:08.822Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:56:08.825Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:56:16.813Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:56:16.816Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:59:17.957Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:59:17.962Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:59:21.381Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:59:21.385Z"}
+{"level":"error","message":"AuditLog.userId cannot be null, AuditLog.enitytId cannot be null, AuditLog.enitytType cannot be null, AuditLog.metadata cannot be null","method":"POST","path":"/api/orders/","service":"order-service","stack":"Error: AuditLog.userId cannot be null, AuditLog.enitytId cannot be null, AuditLog.enitytType cannot be null, AuditLog.metadata cannot be null\n    at normalizeError (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:60:12)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:90:24\n    at Layer.handle_error (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:71:5)\n    at trim_prefix (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:326:13)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:646:15\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:265:14)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/route.js:141:14)","statusCode":400,"timestamp":"2026-04-25T12:59:23.598Z","type":"VALIDATION_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:59:23 +0000] \"POST /api/orders/ HTTP/1.1\" 400 1630 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:59:23.603Z"}
+{"level":"error","message":"AuditLog.userId cannot be null, AuditLog.enitytId cannot be null, AuditLog.enitytType cannot be null, AuditLog.metadata cannot be null","method":"POST","path":"/api/orders/","service":"order-service","stack":"Error: AuditLog.userId cannot be null, AuditLog.enitytId cannot be null, AuditLog.enitytType cannot be null, AuditLog.metadata cannot be null\n    at normalizeError (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:60:12)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:90:24\n    at Layer.handle_error (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:71:5)\n    at trim_prefix (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:326:13)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:646:15\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:265:14)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/route.js:141:14)","statusCode":400,"timestamp":"2026-04-25T12:59:31.625Z","type":"VALIDATION_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:12:59:31 +0000] \"POST /api/orders/ HTTP/1.1\" 400 1630 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T12:59:31.626Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T12:59:58.708Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T12:59:58.711Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:00:02.082Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:00:02.086Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:00:10.442Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:00:10.444Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:00:32.633Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:00:32.636Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:00:38.837Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:00:38.841Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:00:56.035Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:00:56.039Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:01:13.045Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:01:13.049Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:02:06.140Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:02:06.145Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:02:08.161Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:02:08.166Z"}
+{"level":"error","message":"Database error","method":"POST","path":"/api/orders/","service":"order-service","stack":"Error: Database error\n    at normalizeError (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:66:12)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:90:24\n    at Layer.handle_error (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:71:5)\n    at trim_prefix (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:326:13)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:646:15\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:265:14)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/route.js:141:14)","statusCode":500,"timestamp":"2026-04-25T13:02:09.858Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:13:02:09 +0000] \"POST /api/orders/ HTTP/1.1\" 500 1364 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T13:02:09.862Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:02:33.837Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:02:33.844Z"}
+{"level":"error","message":"Database error","method":"POST","path":"/api/orders/","service":"order-service","stack":"Error: Database error\n    at normalizeError (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:66:12)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:90:24\n    at Layer.handle_error (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:71:5)\n    at trim_prefix (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:326:13)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:646:15\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:265:14)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/route.js:141:14)","statusCode":500,"timestamp":"2026-04-25T13:02:37.316Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:13:02:37 +0000] \"POST /api/orders/ HTTP/1.1\" 500 1364 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T13:02:37.319Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:03:11.117Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:03:11.120Z"}
+{"level":"error","message":"Database error","method":"POST","path":"/api/orders/","service":"order-service","stack":"Error: Database error\n    at normalizeError (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:66:12)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:90:24\n    at Layer.handle_error (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:71:5)\n    at trim_prefix (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:326:13)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:646:15\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:265:14)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/route.js:141:14)","statusCode":500,"timestamp":"2026-04-25T13:03:43.818Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:13:03:43 +0000] \"POST /api/orders/ HTTP/1.1\" 500 1364 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T13:03:43.824Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:04:12.831Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:04:12.834Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:04:15.309Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:04:15.312Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:04:31.387Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:04:31.390Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:04:34.156Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:04:34.159Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:04:37.356Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:04:37.360Z"}
+{"level":"error","message":"Database error","method":"POST","path":"/api/orders/","service":"order-service","stack":"Error: Database error\n    at normalizeError (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:66:12)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:90:24\n    at Layer.handle_error (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:71:5)\n    at trim_prefix (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:326:13)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:646:15\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:265:14)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/route.js:141:14)","statusCode":500,"timestamp":"2026-04-25T13:04:38.956Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:13:04:38 +0000] \"POST /api/orders/ HTTP/1.1\" 500 1364 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T13:04:38.961Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:05:03.156Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:05:03.159Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:05:19.622Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:05:19.626Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:05:29.721Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:05:29.725Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:13:06:05 +0000] \"POST /api/orders/ HTTP/1.1\" 202 1598 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T13:06:05.815Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:07:25.170Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:07:25.173Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:07:29.393Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:07:29.398Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:07:30.672Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:07:30.675Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:07:38.252Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:07:38.256Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:07:49.485Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:07:49.489Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:07:51.928Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:07:51.931Z"}
+{"level":"error","message":"cache is not defined","method":"GET","path":"/api/orders/","service":"order-service","stack":"ReferenceError: cache is not defined\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/order-service/controllers/orderController.js:102:18\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/errorHandler.js:113:19\n    at Layer.handle [as handle_request] (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/layer.js:95:5)\n    at /home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:346:12)\n    at next (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/node_modules/express/lib/router/index.js:280:10)\n    at authenticate (/home/prakashk.kumar/project/docker/lamp/web/nodeadv/nodeadvance/shared/middleware/auth.js:21:5)","statusCode":500,"timestamp":"2026-04-25T13:08:19.398Z","type":"INTERNAL_ERROR"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:13:08:19 +0000] \"GET /api/orders/ HTTP/1.1\" 500 1423 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T13:08:19.403Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:08:32.188Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:08:32.191Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:13:08:33 +0000] \"GET /api/orders/ HTTP/1.1\" 200 4289 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T13:08:33.315Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:08:41.976Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:08:41.979Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:09:00.961Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:09:00.964Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:09:05.936Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:09:05.940Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:09:25.988Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:09:25.998Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:09:34.360Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:09:34.363Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:09:39.579Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:09:39.585Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:09:41.354Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:09:41.357Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:13:10:39 +0000] \"GET /api/orders/audit-log?page=1&limit=10 HTTP/1.1\" 200 369 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T13:10:39.554Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:13:10:53 +0000] \"GET /api/orders/ HTTP/1.1\" 200 4289 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T13:10:53.332Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:13:10:57 +0000] \"GET /api/orders/audit-log?page=1&limit=10 HTTP/1.1\" 200 369 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T13:10:57.693Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [25/Apr/2026:13:11:01 +0000] \"POST /api/orders/ HTTP/1.1\" 202 1598 \"-\" \"PostmanRuntime/7.51.0\"","service":"order-service","timestamp":"2026-04-25T13:11:01.352Z"}
+{"level":"info","message":"Database connected","service":"order-service","timestamp":"2026-04-25T13:14:43.463Z"}
+{"level":"info","message":"Order service running on port 5007","service":"order-service","timestamp":"2026-04-25T13:14:43.466Z"}

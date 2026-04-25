@@ -1,0 +1,24 @@
+{"level":"info","message":"Database connected","service":"processing-service","timestamp":"2026-04-14T08:22:55.208Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Failed to start processing service connect ECONNREFUSED 127.0.0.1:5672","port":5672,"service":"processing-service","stack":"Error: connect ECONNREFUSED 127.0.0.1:5672\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16)","syscall":"connect","timestamp":"2026-04-14T08:22:55.213Z"}
+{"level":"info","message":"Database connected","service":"processing-service","timestamp":"2026-04-14T08:32:43.389Z"}
+{"level":"info","message":"Listening for document processing events","service":"processing-service","timestamp":"2026-04-14T08:32:43.448Z"}
+{"level":"info","message":"Processing service running on port 4003","service":"processing-service","timestamp":"2026-04-14T08:32:43.453Z"}
+{"level":"info","message":"Database connected","service":"processing-service","timestamp":"2026-04-14T08:34:08.118Z"}
+{"level":"info","message":"Listening for document processing events","service":"processing-service","timestamp":"2026-04-14T08:34:08.182Z"}
+{"level":"info","message":"Processing service running on port 4003","service":"processing-service","timestamp":"2026-04-14T08:34:08.186Z"}
+{"level":"info","message":"Database connected","service":"processing-service","timestamp":"2026-04-14T08:34:58.788Z"}
+{"level":"info","message":"Listening for document processing events","service":"processing-service","timestamp":"2026-04-14T08:34:58.854Z"}
+{"level":"info","message":"Processing service running on port 4003","service":"processing-service","timestamp":"2026-04-14T08:34:58.857Z"}
+{"level":"info","message":"Database connected","service":"processing-service","timestamp":"2026-04-14T08:39:14.890Z"}
+{"level":"info","message":"Listening for document processing events","service":"processing-service","timestamp":"2026-04-14T08:39:14.959Z"}
+{"level":"info","message":"Processing service running on port 4003","service":"processing-service","timestamp":"2026-04-14T08:39:14.965Z"}
+{"level":"info","message":"Processing document b90e8721-4b05-4317-985d-29cc042fa498","service":"processing-service","timestamp":"2026-04-14T08:39:30.592Z"}
+{"level":"info","message":"Document b90e8721-4b05-4317-985d-29cc042fa498 processed successfully","service":"processing-service","timestamp":"2026-04-14T08:39:32.662Z"}
+{"level":"info","message":"Processing document 24a2fcc5-3c16-4037-9950-429e33d8b9cd","service":"processing-service","timestamp":"2026-04-14T08:40:27.570Z"}
+{"level":"info","message":"Document 24a2fcc5-3c16-4037-9950-429e33d8b9cd processed successfully","service":"processing-service","timestamp":"2026-04-14T08:40:29.647Z"}
+{"level":"info","message":"Processing document 63cd2f68-a6fe-4f46-88a6-d28e0e07b77c","service":"processing-service","timestamp":"2026-04-14T08:42:11.232Z"}
+{"level":"info","message":"Document 63cd2f68-a6fe-4f46-88a6-d28e0e07b77c processed successfully","service":"processing-service","timestamp":"2026-04-14T08:42:13.297Z"}
+{"level":"info","message":"Processing document 47738928-ea1c-461a-bbc3-39743e6d1f87","service":"processing-service","timestamp":"2026-04-14T08:43:28.594Z"}
+{"level":"info","message":"Document 47738928-ea1c-461a-bbc3-39743e6d1f87 processed successfully","service":"processing-service","timestamp":"2026-04-14T08:43:30.663Z"}
+{"level":"info","message":"Processing document 7bf57e93-0ca9-4e68-9aa0-ced0da818b68","service":"processing-service","timestamp":"2026-04-14T09:01:20.670Z"}
+{"level":"info","message":"Document 7bf57e93-0ca9-4e68-9aa0-ced0da818b68 processed successfully","service":"processing-service","timestamp":"2026-04-14T09:01:22.734Z"}

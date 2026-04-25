@@ -1,0 +1,2 @@
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Failed to start upload service connect ECONNREFUSED 127.0.0.1:5672","port":5672,"service":"upload-service","stack":"Error: connect ECONNREFUSED 127.0.0.1:5672\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16)","syscall":"connect","timestamp":"2026-04-25T11:13:19.771Z"}
+{"level":"error","message":"Upload failed: 78a22d34-5b01-40f4-8732-509d4a96a117 - self-signed certificate","service":"upload-service","timestamp":"2026-04-25T13:11:29.395Z"}

@@ -1,0 +1,1 @@
+{"code":"EPIPE","errno":-32,"level":"error","message":"Proxy error for /api/documents write EPIPE","service":"api-gateway","stack":"Error: write EPIPE\n    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:94:16)","syscall":"write","timestamp":"2026-04-17T08:01:39.884Z"}

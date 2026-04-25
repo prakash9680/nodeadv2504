@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/home/prakashk.kumar/project/docker/lamp/web/testnode/staplesricoh/shared/logs/.c6d75818868a21382be7469d7e834d1a2e2aef7a-audit.json",
+    "files": [
+        {
+            "date": 1776415902784,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/testnode/staplesricoh/shared/logs/auth-service-error-2026-04-17.log",
+            "hash": "5c85dce42563e9b14ce3a13b9ca300dbfda2cafa1221d86ed00c3492b02c3ea0"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/.e7bd19e6ca090219a745821a84ce0d9abb61493e-audit.json",
+    "files": [
+        {
+            "date": 1775819235394,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/rabbitmq-error-2026-04-10.log",
+            "hash": "100d7a989e3940dff88503658548f259586ec8738d35e02f8661c1eff5902aab"
+        },
+        {
+            "date": 1776060693861,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/rabbitmq-error-2026-04-13.log",
+            "hash": "cd95db0265823c50b8195f872c96d4eacc94343f60b958bec1431b524c2c025e"
+        },
+        {
+            "date": 1776154974817,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/rabbitmq-error-2026-04-14.log",
+            "hash": "2c0bed9ab07ecc5c534e55f20981721aca1e250726ab2093d4a10e15b9354c3c"
+        },
+        {
+            "date": 1776238545832,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/rabbitmq-error-2026-04-15.log",
+            "hash": "e68d8130d72ddd86650afbb2981914eca925527d8934f9b300a9a661b40d1129"
+        },
+        {
+            "date": 1776412547664,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/nodeadvancetest/shared/logs/rabbitmq-error-2026-04-17.log",
+            "hash": "66cfe8bace0abda3cd37e4e3c80b870be9116a83547b8afce57ee47a1cab76dd"
+        }
+    ],
+    "hashType": "sha256"
+}

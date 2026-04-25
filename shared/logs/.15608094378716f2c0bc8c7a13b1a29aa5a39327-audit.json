@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/prakashk.kumar/project/docker/lamp/web/testnode/nodeadvancetest/shared/logs/.15608094378716f2c0bc8c7a13b1a29aa5a39327-audit.json",
+    "files": [
+        {
+            "date": 1776415023787,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/testnode/nodeadvancetest/shared/logs/upload-service-2026-04-17.log",
+            "hash": "614d56ba9a682781b913eb6826600eb79699983fae1d017afd3c14716cba3535"
+        }
+    ],
+    "hashType": "sha256"
+}

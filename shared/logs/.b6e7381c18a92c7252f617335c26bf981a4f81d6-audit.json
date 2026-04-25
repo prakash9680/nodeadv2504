@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/prakashk.kumar/project/docker/lamp/web/testnode/staplesricoh/shared/logs/.b6e7381c18a92c7252f617335c26bf981a4f81d6-audit.json",
+    "files": [
+        {
+            "date": 1776415902758,
+            "name": "/home/prakashk.kumar/project/docker/lamp/web/testnode/staplesricoh/shared/logs/notification-service-2026-04-17.log",
+            "hash": "649734a2d4337210d991ceb36b7616e04278b930b4a04fa70ea05038afc206f9"
+        }
+    ],
+    "hashType": "sha256"
+}
